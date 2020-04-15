@@ -1,0 +1,24 @@
+{
+  "name": "sturdy-barnacle",
+  "version": "1.0.0",
+  "description": "Trying out the Spotify API",
+  "main": "src/index.js",
+  "scripts": {
+    "start:scrape": "node src/backend/scrape.js -r dotenv/config env.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenBarrett89/sturdy-barnacle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenBarrett89/sturdy-barnacle/issues"
+  },
+  "homepage": "https://github.com/BenBarrett89/sturdy-barnacle#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-rate-limit": "^1.2.1",
+    "dotenv": "^8.2.0"
+  }
+}
