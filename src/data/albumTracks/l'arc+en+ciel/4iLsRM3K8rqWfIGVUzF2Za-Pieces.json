@@ -1,0 +1,130 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "1999 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292978970"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4iLsRM3K8rqWfIGVUzF2Za"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4iLsRM3K8rqWfIGVUzF2Za",
+  "id": "4iLsRM3K8rqWfIGVUzF2Za",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27374ad863b1cb0f55d071ebec0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0274ad863b1cb0f55d071ebec0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485174ad863b1cb0f55d071ebec0",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "Pieces",
+  "popularity": 13,
+  "release_date": "1999-06-02",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4iLsRM3K8rqWfIGVUzF2Za/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 349000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LMP50kKzxXlxmWsLV0Vu4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7LMP50kKzxXlxmWsLV0Vu4",
+        "id": "7LMP50kKzxXlxmWsLV0Vu4",
+        "is_local": false,
+        "name": "Pieces",
+        "preview_url": "https://p.scdn.co/mp3-preview/f29d8fb2e2998ef7aaaec9b34074314e4848bbf6?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7LMP50kKzxXlxmWsLV0Vu4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 418000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Zs49LJpQHrQNoevbS3kuc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Zs49LJpQHrQNoevbS3kuc",
+        "id": "1Zs49LJpQHrQNoevbS3kuc",
+        "is_local": false,
+        "name": "fate ~fake fate mix~",
+        "preview_url": "https://p.scdn.co/mp3-preview/096ca5f4a4af471c3374cbd8621aac8888af7e64?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1Zs49LJpQHrQNoevbS3kuc"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:4iLsRM3K8rqWfIGVUzF2Za"
+}

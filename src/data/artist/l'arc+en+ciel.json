@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+  },
+  "followers": {
+    "href": null,
+    "total": 328242
+  },
+  "genres": [
+    "anime",
+    "visual kei"
+  ],
+  "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+  "id": "6jTjjAjvYvMYfaqi837p5x",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/0c63aed6c356f07d909e2804cf2e6e4a55cda61d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/b3eeb3e6a2447d7879968db0c23b58becfb31af1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/18d4370180f1522122c33f0204a101e58b938643",
+      "width": 160
+    }
+  ],
+  "name": "L'Arc-en-Ciel",
+  "popularity": 60,
+  "type": "artist",
+  "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+}

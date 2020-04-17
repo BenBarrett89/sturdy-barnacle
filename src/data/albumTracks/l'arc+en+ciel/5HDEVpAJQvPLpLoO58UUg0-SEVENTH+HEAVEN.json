@@ -1,0 +1,192 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2007 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292978994"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5HDEVpAJQvPLpLoO58UUg0"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5HDEVpAJQvPLpLoO58UUg0",
+  "id": "5HDEVpAJQvPLpLoO58UUg0",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733121dc40703cebda4d1406af",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023121dc40703cebda4d1406af",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513121dc40703cebda4d1406af",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "SEVENTH HEAVEN",
+  "popularity": 16,
+  "release_date": "2007-05-30",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5HDEVpAJQvPLpLoO58UUg0/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 304133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6SWyzqwkFtZXNHxiC0jNHH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6SWyzqwkFtZXNHxiC0jNHH",
+        "id": "6SWyzqwkFtZXNHxiC0jNHH",
+        "is_local": false,
+        "name": "SEVENTH HEAVEN",
+        "preview_url": "https://p.scdn.co/mp3-preview/badc9e981481883945f4cc54372ef8925a7cb8f1?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6SWyzqwkFtZXNHxiC0jNHH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 228453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6oM9txhEVp2rVpLoz2LVDk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6oM9txhEVp2rVpLoz2LVDk",
+        "id": "6oM9txhEVp2rVpLoz2LVDk",
+        "is_local": false,
+        "name": "HONEY 2007",
+        "preview_url": "https://p.scdn.co/mp3-preview/a91def4d42f3a6bda4ee7901cda2dc992d385bda?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6oM9txhEVp2rVpLoz2LVDk"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 304306,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XABwswdsPKhkOMx42Q1hT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1XABwswdsPKhkOMx42Q1hT",
+        "id": "1XABwswdsPKhkOMx42Q1hT",
+        "is_local": false,
+        "name": "SEVENTH HEAVEN (hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/efeb3825bd5ad90268c4e73a1ac91aedbdf3866a?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1XABwswdsPKhkOMx42Q1hT"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 222213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17ZOnZ9IrpUvS3QeTWdYdd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/17ZOnZ9IrpUvS3QeTWdYdd",
+        "id": "17ZOnZ9IrpUvS3QeTWdYdd",
+        "is_local": false,
+        "name": "HONEY 2007(TETSU P'UNKless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/b2e9e02cfd701a49d654664bce7c04ca96840528?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:17ZOnZ9IrpUvS3QeTWdYdd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:5HDEVpAJQvPLpLoO58UUg0"
+}

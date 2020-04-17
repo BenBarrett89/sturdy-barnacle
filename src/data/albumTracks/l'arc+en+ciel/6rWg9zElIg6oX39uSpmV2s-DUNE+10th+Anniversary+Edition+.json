@@ -1,0 +1,475 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2004 Danger Crue Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2004 Danger Crue Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4538539000858"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6rWg9zElIg6oX39uSpmV2s"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6rWg9zElIg6oX39uSpmV2s",
+  "id": "6rWg9zElIg6oX39uSpmV2s",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273511194152a524585f7b0c7d5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02511194152a524585f7b0c7d5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851511194152a524585f7b0c7d5",
+      "width": 64
+    }
+  ],
+  "label": "Danger Cure Records",
+  "name": "DUNE (10th Anniversary Edition)",
+  "popularity": 24,
+  "release_date": "2004-04-21",
+  "release_date_precision": "day",
+  "total_tracks": 13,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6rWg9zElIg6oX39uSpmV2s/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 333946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7iPm2RqDQs2Hqz3FNcGorc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7iPm2RqDQs2Hqz3FNcGorc",
+        "id": "7iPm2RqDQs2Hqz3FNcGorc",
+        "is_local": false,
+        "name": "Shutting from the sky",
+        "preview_url": "https://p.scdn.co/mp3-preview/3e1147a82e6b253daf1117a45037579d4691e3cc?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7iPm2RqDQs2Hqz3FNcGorc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 292826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5sg3UMBRycc83HkKcQ0QfL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5sg3UMBRycc83HkKcQ0QfL",
+        "id": "5sg3UMBRycc83HkKcQ0QfL",
+        "is_local": false,
+        "name": "Voice",
+        "preview_url": "https://p.scdn.co/mp3-preview/3b95cc76f0f65ba14340ee489b049c0380f5e4dc?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5sg3UMBRycc83HkKcQ0QfL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 300786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7xqRfbsHePpFe7LfJM2EkO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7xqRfbsHePpFe7LfJM2EkO",
+        "id": "7xqRfbsHePpFe7LfJM2EkO",
+        "is_local": false,
+        "name": "Taste of love",
+        "preview_url": "https://p.scdn.co/mp3-preview/471bde9b076350fed4934af264a1bb61be118f47?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7xqRfbsHePpFe7LfJM2EkO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 258533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0s8rXy0rxwquBaiIyh9RPL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0s8rXy0rxwquBaiIyh9RPL",
+        "id": "0s8rXy0rxwquBaiIyh9RPL",
+        "is_local": false,
+        "name": "Entichers",
+        "preview_url": "https://p.scdn.co/mp3-preview/cf6d282a71abecb163853ac435929cd0ae69c80a?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0s8rXy0rxwquBaiIyh9RPL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 372506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6c1YlvwvaSHxAf20PxAieo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6c1YlvwvaSHxAf20PxAieo",
+        "id": "6c1YlvwvaSHxAf20PxAieo",
+        "is_local": false,
+        "name": "Floods of tears",
+        "preview_url": "https://p.scdn.co/mp3-preview/60759499ee39c386d556b01d743fcb31eac8f092?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:6c1YlvwvaSHxAf20PxAieo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 305933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14t60KTghCE0eXOdvpCqPw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/14t60KTghCE0eXOdvpCqPw",
+        "id": "14t60KTghCE0eXOdvpCqPw",
+        "is_local": false,
+        "name": "Dune",
+        "preview_url": "https://p.scdn.co/mp3-preview/a01cf785472a889c0f437e4b49732d599638ebd1?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:14t60KTghCE0eXOdvpCqPw"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 264906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6DxmGkC0CjBqyaOyTNEBSN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6DxmGkC0CjBqyaOyTNEBSN",
+        "id": "6DxmGkC0CjBqyaOyTNEBSN",
+        "is_local": false,
+        "name": "Be destined",
+        "preview_url": "https://p.scdn.co/mp3-preview/dcf1db622784311210cc1faa7ba6ab48a5af9b2f?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6DxmGkC0CjBqyaOyTNEBSN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 378013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2IzgFKKM2T7n7UxPcADN3y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2IzgFKKM2T7n7UxPcADN3y",
+        "id": "2IzgFKKM2T7n7UxPcADN3y",
+        "is_local": false,
+        "name": "追憶の情景",
+        "preview_url": "https://p.scdn.co/mp3-preview/f1798354bdf252f111a24f944c76c5eb190cc380?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2IzgFKKM2T7n7UxPcADN3y"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 332426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vMsjpjVtiGooBVnmFUEPQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2vMsjpjVtiGooBVnmFUEPQ",
+        "id": "2vMsjpjVtiGooBVnmFUEPQ",
+        "is_local": false,
+        "name": "As if in a dream",
+        "preview_url": "https://p.scdn.co/mp3-preview/8ac17f80106d34e03f842786a9d1e4bc6badc76d?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:2vMsjpjVtiGooBVnmFUEPQ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 223226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7GdOM8m2bQ1n0FaH4FxVi4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7GdOM8m2bQ1n0FaH4FxVi4",
+        "id": "7GdOM8m2bQ1n0FaH4FxVi4",
+        "is_local": false,
+        "name": "失われた眺め",
+        "preview_url": "https://p.scdn.co/mp3-preview/0d29c29489d0f917e41b2481cc5344a432ecad26?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:7GdOM8m2bQ1n0FaH4FxVi4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 345013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32f57eF3U0C2UkGpaAYZxP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/32f57eF3U0C2UkGpaAYZxP",
+        "id": "32f57eF3U0C2UkGpaAYZxP",
+        "is_local": false,
+        "name": "Floods of tears - (single version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/d11f136eff6b2c55fb67d4118d12a60da220d450?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:32f57eF3U0C2UkGpaAYZxP"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 332653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6XE1Ug4Ywc29lVKgDoLyyS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6XE1Ug4Ywc29lVKgDoLyyS",
+        "id": "6XE1Ug4Ywc29lVKgDoLyyS",
+        "is_local": false,
+        "name": "夜想花",
+        "preview_url": "https://p.scdn.co/mp3-preview/b1a8022751ec474ef798e778f84f0ba008d20895?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6XE1Ug4Ywc29lVKgDoLyyS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 337933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30tk5U9FH9RQO6t6pTFFB4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/30tk5U9FH9RQO6t6pTFFB4",
+        "id": "30tk5U9FH9RQO6t6pTFFB4",
+        "is_local": false,
+        "name": "予感",
+        "preview_url": "https://p.scdn.co/mp3-preview/eae2d88eeccfe4f1dfd65b1ada0e3f694acbb4cd?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:30tk5U9FH9RQO6t6pTFFB4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13
+  },
+  "type": "album",
+  "uri": "spotify:album:6rWg9zElIg6oX39uSpmV2s"
+}

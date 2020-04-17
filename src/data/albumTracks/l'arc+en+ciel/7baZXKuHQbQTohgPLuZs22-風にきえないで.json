@@ -1,0 +1,161 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "1996 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292979083"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7baZXKuHQbQTohgPLuZs22"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7baZXKuHQbQTohgPLuZs22",
+  "id": "7baZXKuHQbQTohgPLuZs22",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732f7ce99183b17b3b692cbdd0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022f7ce99183b17b3b692cbdd0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512f7ce99183b17b3b692cbdd0",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "風にきえないで",
+  "popularity": 29,
+  "release_date": "1996-07-08",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7baZXKuHQbQTohgPLuZs22/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 279333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40uqcv624B4UriyRVBOVe7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/40uqcv624B4UriyRVBOVe7",
+        "id": "40uqcv624B4UriyRVBOVe7",
+        "is_local": false,
+        "name": "風にきえないで",
+        "preview_url": "https://p.scdn.co/mp3-preview/33fe5a57b312b1befea9e38c24f8cc09c92920f5?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:40uqcv624B4UriyRVBOVe7"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 285200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7dPoZDVDqo83FhmRGLNvTU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7dPoZDVDqo83FhmRGLNvTU",
+        "id": "7dPoZDVDqo83FhmRGLNvTU",
+        "is_local": false,
+        "name": "I'm so happy",
+        "preview_url": "https://p.scdn.co/mp3-preview/4ec63f4029d6b6a9f816ac914de072bbb9fed23f?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7dPoZDVDqo83FhmRGLNvTU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 278360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6WWPGPaztQnVz1FnDFDTTa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6WWPGPaztQnVz1FnDFDTTa",
+        "id": "6WWPGPaztQnVz1FnDFDTTa",
+        "is_local": false,
+        "name": "風にきえないで (Voiceless Version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/a7f3bcaeac3f42212921233e614fb76361ca08d7?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6WWPGPaztQnVz1FnDFDTTa"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:7baZXKuHQbQTohgPLuZs22"
+}

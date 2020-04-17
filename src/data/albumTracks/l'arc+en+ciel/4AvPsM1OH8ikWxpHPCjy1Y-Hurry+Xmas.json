@@ -1,0 +1,223 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2007 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292978789"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4AvPsM1OH8ikWxpHPCjy1Y"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4AvPsM1OH8ikWxpHPCjy1Y",
+  "id": "4AvPsM1OH8ikWxpHPCjy1Y",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273131dd66213cedabb9087002b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02131dd66213cedabb9087002b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851131dd66213cedabb9087002b",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "Hurry Xmas",
+  "popularity": 12,
+  "release_date": "2007-11-14",
+  "release_date_precision": "day",
+  "total_tracks": 5,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4AvPsM1OH8ikWxpHPCjy1Y/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 289626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3lDLPANrUZad1CKIGDbsrX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3lDLPANrUZad1CKIGDbsrX",
+        "id": "3lDLPANrUZad1CKIGDbsrX",
+        "is_local": false,
+        "name": "Hurry Xmas",
+        "preview_url": "https://p.scdn.co/mp3-preview/392a1bb4046f4e9fc0bf519dbcea9e0d4ec22bd4?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3lDLPANrUZad1CKIGDbsrX"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 259040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0kiefz94TqVyblNDQlCUQO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0kiefz94TqVyblNDQlCUQO",
+        "id": "0kiefz94TqVyblNDQlCUQO",
+        "is_local": false,
+        "name": "I Wish 2007",
+        "preview_url": "https://p.scdn.co/mp3-preview/3bffa32c09665815d902f9b540c09da9d04fefc5?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0kiefz94TqVyblNDQlCUQO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 280520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1BCRV4Kvk0isERwZr4lLWq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1BCRV4Kvk0isERwZr4lLWq",
+        "id": "1BCRV4Kvk0isERwZr4lLWq",
+        "is_local": false,
+        "name": "Hurry Xmas -Silent Night version-",
+        "preview_url": "https://p.scdn.co/mp3-preview/e5a0cf34664b9aefe839f949e1c0a24eba6dad8b?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1BCRV4Kvk0isERwZr4lLWq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 289733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gcv8BlPqXwZi0d7F8S8S8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5gcv8BlPqXwZi0d7F8S8S8",
+        "id": "5gcv8BlPqXwZi0d7F8S8S8",
+        "is_local": false,
+        "name": "Hurry Xmas (hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/32e23f8146a678ee1bc166b49d972565f49f36de?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5gcv8BlPqXwZi0d7F8S8S8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 258386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YHVT8Q4OmbPODJ1RqHfUC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3YHVT8Q4OmbPODJ1RqHfUC",
+        "id": "3YHVT8Q4OmbPODJ1RqHfUC",
+        "is_local": false,
+        "name": "I Wish 2007 (T.E.Z P'UNKless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/b7e4a0715a805d1862846a7b5e6e16279f6cdb46?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3YHVT8Q4OmbPODJ1RqHfUC"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 5
+  },
+  "type": "album",
+  "uri": "spotify:album:4AvPsM1OH8ikWxpHPCjy1Y"
+}

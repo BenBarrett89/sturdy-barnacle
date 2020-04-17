@@ -1,0 +1,781 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2018 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4547366356762"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5RFyjcqOFK3PCH8Y8mCYsO"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5RFyjcqOFK3PCH8Y8mCYsO",
+  "id": "5RFyjcqOFK3PCH8Y8mCYsO",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e08cf5d22c19e0df155982ce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e08cf5d22c19e0df155982ce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e08cf5d22c19e0df155982ce",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "25th L'Anniversary LIVE",
+  "popularity": 35,
+  "release_date": "2018-03-28",
+  "release_date_precision": "day",
+  "total_tracks": 23,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5RFyjcqOFK3PCH8Y8mCYsO/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 370405,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34X1QNGv52TmesA11LuuK9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/34X1QNGv52TmesA11LuuK9",
+        "id": "34X1QNGv52TmesA11LuuK9",
+        "is_local": false,
+        "name": "虹 (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/6a9e4f691d7abdb5d0a68f7df1c386c19b05a2f7?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:34X1QNGv52TmesA11LuuK9"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 273374,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4T55gPYTkE9u7EQgYSaGL4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4T55gPYTkE9u7EQgYSaGL4",
+        "id": "4T55gPYTkE9u7EQgYSaGL4",
+        "is_local": false,
+        "name": "Caress of Venus (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/67884bd6cfbb1cc6873698f068e98a6ce2a63c8f?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4T55gPYTkE9u7EQgYSaGL4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 313767,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6l6qVkRbqjdKdlkpHc8rBI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6l6qVkRbqjdKdlkpHc8rBI",
+        "id": "6l6qVkRbqjdKdlkpHc8rBI",
+        "is_local": false,
+        "name": "the Fourth Avenue Cafe (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/17a2134471191c9255ba05442a7ee4f8362de997?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6l6qVkRbqjdKdlkpHc8rBI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 289381,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75k9OvMIAWu87kfjw9QZBh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/75k9OvMIAWu87kfjw9QZBh",
+        "id": "75k9OvMIAWu87kfjw9QZBh",
+        "is_local": false,
+        "name": "Vivid Colors (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/422ba8da9daa4844cf2ca0191dae552a5b905d14?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:75k9OvMIAWu87kfjw9QZBh"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 372384,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1uI6F3PvnhorgQDXe2bWTE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1uI6F3PvnhorgQDXe2bWTE",
+        "id": "1uI6F3PvnhorgQDXe2bWTE",
+        "is_local": false,
+        "name": "Lies and Truth (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/94396b91341e958a0db94a9d24258bbc0a713b1e?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1uI6F3PvnhorgQDXe2bWTE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 364150,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5NioLt4S7lH4wDGwputmgf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5NioLt4S7lH4wDGwputmgf",
+        "id": "5NioLt4S7lH4wDGwputmgf",
+        "is_local": false,
+        "name": "真実と幻想と (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/7e1742e80e60e486dd9da87c10fba9967059d840?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5NioLt4S7lH4wDGwputmgf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 386708,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30PzdNWkzEoyrt8cciMSKD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/30PzdNWkzEoyrt8cciMSKD",
+        "id": "30PzdNWkzEoyrt8cciMSKD",
+        "is_local": false,
+        "name": "forbidden lover (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/3f23d9866eaf7ceee690d87be62f44970995b9b3?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:30PzdNWkzEoyrt8cciMSKD"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 260921,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6TRP0F0fo1SziGk59iPIpO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6TRP0F0fo1SziGk59iPIpO",
+        "id": "6TRP0F0fo1SziGk59iPIpO",
+        "is_local": false,
+        "name": "Shout at the Devil (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/56ab4daf10faeebb478ed7ad7b22ecb9a15a34f7?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6TRP0F0fo1SziGk59iPIpO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 284605,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fyHMDF1DL00j6PBYxm7Zb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4fyHMDF1DL00j6PBYxm7Zb",
+        "id": "4fyHMDF1DL00j6PBYxm7Zb",
+        "is_local": false,
+        "name": "REVELATION (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/2c0ae8170a7d38f4f0aa55b58d7b511a83f1b1eb?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4fyHMDF1DL00j6PBYxm7Zb"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 341341,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FFAlVbn7QYKh7LQTWySjs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4FFAlVbn7QYKh7LQTWySjs",
+        "id": "4FFAlVbn7QYKh7LQTWySjs",
+        "is_local": false,
+        "name": "風の行方 (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/bfae85ce77c7dd81f4bd4b3da72167364d49b2ae?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4FFAlVbn7QYKh7LQTWySjs"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 268114,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Rbhqcejqgp9H5EwfKliHe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Rbhqcejqgp9H5EwfKliHe",
+        "id": "0Rbhqcejqgp9H5EwfKliHe",
+        "is_local": false,
+        "name": "X X X (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/bd545bca6efd0c85dbea06b6fc605fca310eb2ee?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0Rbhqcejqgp9H5EwfKliHe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 313327,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0w7znmzB8mHE34ZnYrABub"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0w7znmzB8mHE34ZnYrABub",
+        "id": "0w7znmzB8mHE34ZnYrABub",
+        "is_local": false,
+        "name": "花葬 (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/f1034e12e5fe263d2649e2b008aa6495757871c1?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:0w7znmzB8mHE34ZnYrABub"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 298535,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2sWgZOHAbAfbFShf8Tq3XB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2sWgZOHAbAfbFShf8Tq3XB",
+        "id": "2sWgZOHAbAfbFShf8Tq3XB",
+        "is_local": false,
+        "name": "浸食 -lose control- (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/4fa241ad5a324afbe29cf2bd452c59e35ef74aee?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:2sWgZOHAbAfbFShf8Tq3XB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 250130,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qzgNbh3gWulkAdEZLmwfk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6qzgNbh3gWulkAdEZLmwfk",
+        "id": "6qzgNbh3gWulkAdEZLmwfk",
+        "is_local": false,
+        "name": "HONEY (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/b88ffe9440a13973d12933fc04214d502cb3a03b?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:6qzgNbh3gWulkAdEZLmwfk"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 512697,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ocBOvD6AEyqAKucBZ6fZd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ocBOvD6AEyqAKucBZ6fZd",
+        "id": "4ocBOvD6AEyqAKucBZ6fZd",
+        "is_local": false,
+        "name": "MY HEART DRAWS A DREAM (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/f140799089163f127baf36a2d8a7ae4fbf10cd6b?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:4ocBOvD6AEyqAKucBZ6fZd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 266823,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5LMBhnzMSzuGjJ8Mc2nVTg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5LMBhnzMSzuGjJ8Mc2nVTg",
+        "id": "5LMBhnzMSzuGjJ8Mc2nVTg",
+        "is_local": false,
+        "name": "NEO UNIVERSE (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/97b5e52a0b61dfe1aacf4dd6b533990292bfd0df?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:5LMBhnzMSzuGjJ8Mc2nVTg"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 368596,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1INKD1nBuNeA1zPFstHIXV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1INKD1nBuNeA1zPFstHIXV",
+        "id": "1INKD1nBuNeA1zPFstHIXV",
+        "is_local": false,
+        "name": "STAY AWAY (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/740de83a9c589047524aeb9b68a1f2d2a8f77bfc?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:1INKD1nBuNeA1zPFstHIXV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 361296,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2jPE0P0gyfDkXg8sJXTYBi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2jPE0P0gyfDkXg8sJXTYBi",
+        "id": "2jPE0P0gyfDkXg8sJXTYBi",
+        "is_local": false,
+        "name": "Driver's High (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/ede010d8ec0a4f6d3324b282b36ab6de07cf45a2?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:2jPE0P0gyfDkXg8sJXTYBi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 254966,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MOFUqtMEStNvO1h3HQ9zJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4MOFUqtMEStNvO1h3HQ9zJ",
+        "id": "4MOFUqtMEStNvO1h3HQ9zJ",
+        "is_local": false,
+        "name": "READY STEADY GO (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/3aba9ceefcc149fd157c1dad194d8369c9111673?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:4MOFUqtMEStNvO1h3HQ9zJ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 260246,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kJiVUc7RooA0xmeEHArbq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1kJiVUc7RooA0xmeEHArbq",
+        "id": "1kJiVUc7RooA0xmeEHArbq",
+        "is_local": false,
+        "name": "Don't be Afraid (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/f2e1264374d384a96a736f48f3c4b9319c05561d?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 20,
+        "type": "track",
+        "uri": "spotify:track:1kJiVUc7RooA0xmeEHArbq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 266745,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0geJvU1380znYl8ubvGgML"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0geJvU1380znYl8ubvGgML",
+        "id": "0geJvU1380znYl8ubvGgML",
+        "is_local": false,
+        "name": "Blurry Eyes (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/877a676be14c9d87b5609b31cacbd4a96b9e30e5?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 21,
+        "type": "track",
+        "uri": "spotify:track:0geJvU1380znYl8ubvGgML"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 428182,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jVCRDHGQBqXZ9CwZ3mfA7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6jVCRDHGQBqXZ9CwZ3mfA7",
+        "id": "6jVCRDHGQBqXZ9CwZ3mfA7",
+        "is_local": false,
+        "name": "Link (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/71b69cf6b985293d57c1ad5534053216d75c6b05?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 22,
+        "type": "track",
+        "uri": "spotify:track:6jVCRDHGQBqXZ9CwZ3mfA7"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 425804,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5a9UH4gmwLVQOZpKrz9pt5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5a9UH4gmwLVQOZpKrz9pt5",
+        "id": "5a9UH4gmwLVQOZpKrz9pt5",
+        "is_local": false,
+        "name": "瞳の住人 (25th L'Anniversary LIVE)",
+        "preview_url": "https://p.scdn.co/mp3-preview/e584ad4ce42970008060aa4cba30586ba4499009?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 23,
+        "type": "track",
+        "uri": "spotify:track:5a9UH4gmwLVQOZpKrz9pt5"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 23
+  },
+  "type": "album",
+  "uri": "spotify:album:5RFyjcqOFK3PCH8Y8mCYsO"
+}

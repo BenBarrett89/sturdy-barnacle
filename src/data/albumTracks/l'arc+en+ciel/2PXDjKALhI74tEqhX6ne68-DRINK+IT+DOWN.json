@@ -1,0 +1,192 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2008 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292978710"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2PXDjKALhI74tEqhX6ne68"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2PXDjKALhI74tEqhX6ne68",
+  "id": "2PXDjKALhI74tEqhX6ne68",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27374cc64b1482ff343aade8503",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0274cc64b1482ff343aade8503",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485174cc64b1482ff343aade8503",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "DRINK IT DOWN",
+  "popularity": 27,
+  "release_date": "2008-04-02",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2PXDjKALhI74tEqhX6ne68/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 247173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2HB9nqpRrIuP3g8w0WCTht"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2HB9nqpRrIuP3g8w0WCTht",
+        "id": "2HB9nqpRrIuP3g8w0WCTht",
+        "is_local": false,
+        "name": "DRINK IT DOWN",
+        "preview_url": "https://p.scdn.co/mp3-preview/a50cc2e86e9b5ba49ebef78fb0783fc2ff9e205c?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2HB9nqpRrIuP3g8w0WCTht"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 251453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lUkyzqu0k4rGOAQUm7tt2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6lUkyzqu0k4rGOAQUm7tt2",
+        "id": "6lUkyzqu0k4rGOAQUm7tt2",
+        "is_local": false,
+        "name": "Dune 2008",
+        "preview_url": "https://p.scdn.co/mp3-preview/cb3fc1ec848d46add4c53e5097d4b6f5fd8f100d?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6lUkyzqu0k4rGOAQUm7tt2"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 246746,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dT0x0KevM5ks5e6Zl45jA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0dT0x0KevM5ks5e6Zl45jA",
+        "id": "0dT0x0KevM5ks5e6Zl45jA",
+        "is_local": false,
+        "name": "DRINK IT DOWN(hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/0418b78231de6ab89f07a9e0b6c506f6fec360da?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0dT0x0KevM5ks5e6Zl45jA"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 245333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ltF16tHNGSPbMss6nx34f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ltF16tHNGSPbMss6nx34f",
+        "id": "0ltF16tHNGSPbMss6nx34f",
+        "is_local": false,
+        "name": "Dune 2008 (TETSU P'UNKless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/4b178fd6df204604c7e8514eace3b9154778eb70?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0ltF16tHNGSPbMss6nx34f"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:2PXDjKALhI74tEqhX6ne68"
+}

@@ -1,0 +1,192 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2011 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4560427294766"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/17NP1WQpLcseXSng7TFzWk"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/17NP1WQpLcseXSng7TFzWk",
+  "id": "17NP1WQpLcseXSng7TFzWk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b66386fb115932ac467f134d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b66386fb115932ac467f134d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b66386fb115932ac467f134d",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "CHASE",
+  "popularity": 13,
+  "release_date": "2011-12-21",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/17NP1WQpLcseXSng7TFzWk/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 270546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/77sdzttWaDdoSourL6JJWv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/77sdzttWaDdoSourL6JJWv",
+        "id": "77sdzttWaDdoSourL6JJWv",
+        "is_local": false,
+        "name": "CHASE",
+        "preview_url": "https://p.scdn.co/mp3-preview/d00ca9115757b160f7ec89e13bbfdcd085c092c4?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:77sdzttWaDdoSourL6JJWv"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 319520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pPq551hdG24BJWVnrF704"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6pPq551hdG24BJWVnrF704",
+        "id": "6pPq551hdG24BJWVnrF704",
+        "is_local": false,
+        "name": "My Dear -L'Acoustic version-",
+        "preview_url": "https://p.scdn.co/mp3-preview/cccec55fb4a0393fa97d8b3c5028ad04ca251fb9?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6pPq551hdG24BJWVnrF704"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 270720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ns3MEofghtF1V2c7RuU7R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ns3MEofghtF1V2c7RuU7R",
+        "id": "4ns3MEofghtF1V2c7RuU7R",
+        "is_local": false,
+        "name": "CHASE (hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/24ea5fdfb8dd5fc80ec29210284af8d55c4bfdd5?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4ns3MEofghtF1V2c7RuU7R"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 315880,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/05E2mnmy3MgUJkBVPK5jL4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/05E2mnmy3MgUJkBVPK5jL4",
+        "id": "05E2mnmy3MgUJkBVPK5jL4",
+        "is_local": false,
+        "name": "My Dear -L'Acoustic version- (hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/3a63f271f21d0671c0642ee7f9a65fa88f821897?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:05E2mnmy3MgUJkBVPK5jL4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:17NP1WQpLcseXSng7TFzWk"
+}

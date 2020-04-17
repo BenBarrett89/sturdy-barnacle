@@ -1,0 +1,192 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2007 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292978697"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6sEZoau8FKGgKlQonoYWhr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6sEZoau8FKGgKlQonoYWhr",
+  "id": "6sEZoau8FKGgKlQonoYWhr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b889396864193cc538320b91",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b889396864193cc538320b91",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b889396864193cc538320b91",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "DAYBREAK'S BELL",
+  "popularity": 15,
+  "release_date": "2007-10-10",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6sEZoau8FKGgKlQonoYWhr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 252320,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/06UWVdbWIXMTYYJCYpAEGK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/06UWVdbWIXMTYYJCYpAEGK",
+        "id": "06UWVdbWIXMTYYJCYpAEGK",
+        "is_local": false,
+        "name": "DAYBREAK'S BELL",
+        "preview_url": "https://p.scdn.co/mp3-preview/88b3efedc6bb9893ee6afa5b53a7fe35e88bd50e?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:06UWVdbWIXMTYYJCYpAEGK"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 250453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/414tYW4NEd9VYyCKCcUedt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/414tYW4NEd9VYyCKCcUedt",
+        "id": "414tYW4NEd9VYyCKCcUedt",
+        "is_local": false,
+        "name": "夏の憂鬱[SEA IN BLOOD 2007]",
+        "preview_url": "https://p.scdn.co/mp3-preview/102ee54ca58929222bbbb358ef2fee0d5ded2cac?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:414tYW4NEd9VYyCKCcUedt"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 252093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1gwgYiJX6gpY3rWIUGA4qe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1gwgYiJX6gpY3rWIUGA4qe",
+        "id": "1gwgYiJX6gpY3rWIUGA4qe",
+        "is_local": false,
+        "name": "DAYBREAK'S BELL(hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/86d33ac76535f3a0b8c84847c0a9e7e7acb4c82c?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1gwgYiJX6gpY3rWIUGA4qe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 248493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2JGXDngeEo4hWkVDsVkWPO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2JGXDngeEo4hWkVDsVkWPO",
+        "id": "2JGXDngeEo4hWkVDsVkWPO",
+        "is_local": false,
+        "name": "夏の憂鬱[SEA IN BLOOD 2007] (TETSU P'UNKless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/5c1bd15dc61e937c2d164102eb0c9a8eed8ada04?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2JGXDngeEo4hWkVDsVkWPO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:6sEZoau8FKGgKlQonoYWhr"
+}

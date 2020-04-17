@@ -1,0 +1,192 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2000 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292978925"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7DlLsKKzACNMeMbL31qbn4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7DlLsKKzACNMeMbL31qbn4",
+  "id": "7DlLsKKzACNMeMbL31qbn4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273937be474f91892957a05131d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02937be474f91892957a05131d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851937be474f91892957a05131d",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "NEO UNIVERSE/finale",
+  "popularity": 15,
+  "release_date": "2000-01-19",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7DlLsKKzACNMeMbL31qbn4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 249000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/77E0Yho8pUn4TSXusCprPC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/77E0Yho8pUn4TSXusCprPC",
+        "id": "77E0Yho8pUn4TSXusCprPC",
+        "is_local": false,
+        "name": "NEO UNIVERSE",
+        "preview_url": "https://p.scdn.co/mp3-preview/6bdcf2be712a084a062398e4cb42d5b3de465931?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:77E0Yho8pUn4TSXusCprPC"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 388493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JRYXy2UzBJzVN1G6x1NX9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JRYXy2UzBJzVN1G6x1NX9",
+        "id": "5JRYXy2UzBJzVN1G6x1NX9",
+        "is_local": false,
+        "name": "finale",
+        "preview_url": "https://p.scdn.co/mp3-preview/b5c25ed8b97d26c91d95d27c83288ba664394858?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5JRYXy2UzBJzVN1G6x1NX9"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 68973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7pwr597vHhxyVJlJqlWU9O"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7pwr597vHhxyVJlJqlWU9O",
+        "id": "7pwr597vHhxyVJlJqlWU9O",
+        "is_local": false,
+        "name": "hole",
+        "preview_url": "https://p.scdn.co/mp3-preview/17ca35e106c85062c85754580ac99962a2b23735?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7pwr597vHhxyVJlJqlWU9O"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 286240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1VYjWUIKOJ2zba9nqdTqcs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1VYjWUIKOJ2zba9nqdTqcs",
+        "id": "1VYjWUIKOJ2zba9nqdTqcs",
+        "is_local": false,
+        "name": "trick ~new wave of japanese heavy metal mix~",
+        "preview_url": "https://p.scdn.co/mp3-preview/47bf9fa60d3592c988596fa5d1c77e8b1092e660?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1VYjWUIKOJ2zba9nqdTqcs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:7DlLsKKzACNMeMbL31qbn4"
+}

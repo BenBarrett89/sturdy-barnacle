@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "1998 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4560427291147"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/24dLT7T5xA1qYcZXuo7lQR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/24dLT7T5xA1qYcZXuo7lQR",
+  "id": "24dLT7T5xA1qYcZXuo7lQR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737e8ff08d32071c1cebe74b2d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027e8ff08d32071c1cebe74b2d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517e8ff08d32071c1cebe74b2d",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "HONEY",
+  "popularity": 38,
+  "release_date": "1998-07-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/24dLT7T5xA1qYcZXuo7lQR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 227000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NBUVE4t2cMjTOpEKtRnaW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1NBUVE4t2cMjTOpEKtRnaW",
+        "id": "1NBUVE4t2cMjTOpEKtRnaW",
+        "is_local": false,
+        "name": "HONEY",
+        "preview_url": "https://p.scdn.co/mp3-preview/37d6d26705a5aa0b6133b4e83bf5af5df47ca58b?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1NBUVE4t2cMjTOpEKtRnaW"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:24dLT7T5xA1qYcZXuo7lQR"
+}

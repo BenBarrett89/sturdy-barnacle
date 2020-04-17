@@ -1,0 +1,223 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2016 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4547366290936"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2KfGeybd0hZvHfTxMdGNpm"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2KfGeybd0hZvHfTxMdGNpm",
+  "id": "2KfGeybd0hZvHfTxMdGNpm",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273323cfefe1783746517f00316",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02323cfefe1783746517f00316",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851323cfefe1783746517f00316",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "Don't be Afraid",
+  "popularity": 28,
+  "release_date": "2016-12-21",
+  "release_date_precision": "day",
+  "total_tracks": 5,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2KfGeybd0hZvHfTxMdGNpm/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 266200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bhRWJ6JR7xNpbLCIOYQzs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0bhRWJ6JR7xNpbLCIOYQzs",
+        "id": "0bhRWJ6JR7xNpbLCIOYQzs",
+        "is_local": false,
+        "name": "Don't be Afraid",
+        "preview_url": "https://p.scdn.co/mp3-preview/ee7295e9604da77fdec0576bb0fce1c32b26c42a?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0bhRWJ6JR7xNpbLCIOYQzs"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 327946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/61nDpMSpEgaTUZyeW7WYgd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/61nDpMSpEgaTUZyeW7WYgd",
+        "id": "61nDpMSpEgaTUZyeW7WYgd",
+        "is_local": false,
+        "name": "Cradle -L'Acoustic version-",
+        "preview_url": "https://p.scdn.co/mp3-preview/d161bd4b463fe5a8df57cf489968e4f85d7ffb73?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:61nDpMSpEgaTUZyeW7WYgd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 266213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ULk8enrgezpbZO6svWMBh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ULk8enrgezpbZO6svWMBh",
+        "id": "1ULk8enrgezpbZO6svWMBh",
+        "is_local": false,
+        "name": "Don't be Afraid (hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/7cce0b07fce64b24162a8f459e6260b9ad50ab45?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1ULk8enrgezpbZO6svWMBh"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 327933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0sByNyX8Qy52HQaeCNW1Ru"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0sByNyX8Qy52HQaeCNW1Ru",
+        "id": "0sByNyX8Qy52HQaeCNW1Ru",
+        "is_local": false,
+        "name": "Cradle -L'Acoustic version- (hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/2ecaa34c1da536b5f896a31bfa4624c92b163b91?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0sByNyX8Qy52HQaeCNW1Ru"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 261760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2EczfqcepS1MZk1qfD9DBt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2EczfqcepS1MZk1qfD9DBt",
+        "id": "2EczfqcepS1MZk1qfD9DBt",
+        "is_local": false,
+        "name": "Don't be Afraid -English version-",
+        "preview_url": "https://p.scdn.co/mp3-preview/619b7cc8cefc2470b2dd6125265a7ed11f2ac798?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2EczfqcepS1MZk1qfD9DBt"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 5
+  },
+  "type": "album",
+  "uri": "spotify:album:2KfGeybd0hZvHfTxMdGNpm"
+}

@@ -1,0 +1,161 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "1994 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292978406"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1g7ORXaAnwiDqJEOLIT1Qt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1g7ORXaAnwiDqJEOLIT1Qt",
+  "id": "1g7ORXaAnwiDqJEOLIT1Qt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c069b8f721e5c7cf8bdc25c1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c069b8f721e5c7cf8bdc25c1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c069b8f721e5c7cf8bdc25c1",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "Blurry Eyes",
+  "popularity": 17,
+  "release_date": "1994-10-21",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1g7ORXaAnwiDqJEOLIT1Qt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 262000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/61whGSZxS1boHvYsFSG1C8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/61whGSZxS1boHvYsFSG1C8",
+        "id": "61whGSZxS1boHvYsFSG1C8",
+        "is_local": false,
+        "name": "Blurry Eyes",
+        "preview_url": "https://p.scdn.co/mp3-preview/a54b03cb489769e7ba26b18cdba701a8da988f3b?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:61whGSZxS1boHvYsFSG1C8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 276666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XYbQQ7gTJj4yRoaXoiSWh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4XYbQQ7gTJj4yRoaXoiSWh",
+        "id": "4XYbQQ7gTJj4yRoaXoiSWh",
+        "is_local": false,
+        "name": "Wind of Gold (Many Kind of Percussion Mix)",
+        "preview_url": "https://p.scdn.co/mp3-preview/8a063591c1e5a081ab7a8ed3dafbe673bbb16646?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4XYbQQ7gTJj4yRoaXoiSWh"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 260826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3z7AbR69bg9izuZgu3WQAT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3z7AbR69bg9izuZgu3WQAT",
+        "id": "3z7AbR69bg9izuZgu3WQAT",
+        "is_local": false,
+        "name": "Blurry Eyes (Voiceless Version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/40c4b7308368ea814e46913dab0787673180bfa5?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3z7AbR69bg9izuZgu3WQAT"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:1g7ORXaAnwiDqJEOLIT1Qt"
+}

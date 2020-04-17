@@ -1,0 +1,130 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "1999 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292978499"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0YTerurkmVgR5RJWVM1ok9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0YTerurkmVgR5RJWVM1ok9",
+  "id": "0YTerurkmVgR5RJWVM1ok9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273578d50086282d2046679e2c4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02578d50086282d2046679e2c4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851578d50086282d2046679e2c4",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "Driver's High",
+  "popularity": 20,
+  "release_date": "1999-08-11",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0YTerurkmVgR5RJWVM1ok9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 252973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Fc5AWBcg622xyVWV9FCRe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Fc5AWBcg622xyVWV9FCRe",
+        "id": "2Fc5AWBcg622xyVWV9FCRe",
+        "is_local": false,
+        "name": "Driver's High",
+        "preview_url": "https://p.scdn.co/mp3-preview/5888405e5d6fcbddb1e0916b4296c1cca0c0298b?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Fc5AWBcg622xyVWV9FCRe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 438413,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/38NV8eW5kGgmYQPAu9NvWd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/38NV8eW5kGgmYQPAu9NvWd",
+        "id": "38NV8eW5kGgmYQPAu9NvWd",
+        "is_local": false,
+        "name": "cradle ~down to the earth mix~",
+        "preview_url": "https://p.scdn.co/mp3-preview/31d1ba7f7b8235f6a4548bf9a87ccd492cae515d?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:38NV8eW5kGgmYQPAu9NvWd"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:0YTerurkmVgR5RJWVM1ok9"
+}

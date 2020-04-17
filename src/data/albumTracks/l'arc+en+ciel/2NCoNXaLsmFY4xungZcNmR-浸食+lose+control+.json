@@ -1,0 +1,130 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "1998 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4560427291161"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2NCoNXaLsmFY4xungZcNmR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2NCoNXaLsmFY4xungZcNmR",
+  "id": "2NCoNXaLsmFY4xungZcNmR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27304523092ea5118f54166bac7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0204523092ea5118f54166bac7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485104523092ea5118f54166bac7",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "浸食 -lose control-",
+  "popularity": 10,
+  "release_date": "1998-07-08",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2NCoNXaLsmFY4xungZcNmR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 288160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75OXIBHaUqV4xHnuZ7LBem"
+        },
+        "href": "https://api.spotify.com/v1/tracks/75OXIBHaUqV4xHnuZ7LBem",
+        "id": "75OXIBHaUqV4xHnuZ7LBem",
+        "is_local": false,
+        "name": "浸食 -lose control-",
+        "preview_url": "https://p.scdn.co/mp3-preview/2bd95ddd4b67f312f1ca4c77a1a4a488b8f5e1ae?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:75OXIBHaUqV4xHnuZ7LBem"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 366840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4sLpsMytekGIH41qZoIvgo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4sLpsMytekGIH41qZoIvgo",
+        "id": "4sLpsMytekGIH41qZoIvgo",
+        "is_local": false,
+        "name": "浸食 -lose control- (control experiment mix)",
+        "preview_url": "https://p.scdn.co/mp3-preview/8dfbd4fcb51d0711c36a8130ddc7b761281597b7?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4sLpsMytekGIH41qZoIvgo"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:2NCoNXaLsmFY4xungZcNmR"
+}

@@ -1,0 +1,192 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2007 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292978901"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/53dyGHtyFiQzXzEp6GWlBf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/53dyGHtyFiQzXzEp6GWlBf",
+  "id": "53dyGHtyFiQzXzEp6GWlBf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732c908a978fa218996145125b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022c908a978fa218996145125b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512c908a978fa218996145125b",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "MY HEART DRAWS A DREAM",
+  "popularity": 14,
+  "release_date": "2007-08-29",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/53dyGHtyFiQzXzEp6GWlBf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 258506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zRMGgdgWEDDa1SG2v2RF6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3zRMGgdgWEDDa1SG2v2RF6",
+        "id": "3zRMGgdgWEDDa1SG2v2RF6",
+        "is_local": false,
+        "name": "MY HEART DRAWS A DREAM",
+        "preview_url": "https://p.scdn.co/mp3-preview/394eda082a746866cc7b954e58c15bec0692a810?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3zRMGgdgWEDDa1SG2v2RF6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 230320,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08SrUiSeVEsmXTDF8ah48w"
+        },
+        "href": "https://api.spotify.com/v1/tracks/08SrUiSeVEsmXTDF8ah48w",
+        "id": "08SrUiSeVEsmXTDF8ah48w",
+        "is_local": false,
+        "name": "Feeling Fine 2007",
+        "preview_url": "https://p.scdn.co/mp3-preview/f0266861b52ecdc142e6a6751a993809bcc1677c?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:08SrUiSeVEsmXTDF8ah48w"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 257933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4AoZXWfxrHnd7QDykyMmDW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4AoZXWfxrHnd7QDykyMmDW",
+        "id": "4AoZXWfxrHnd7QDykyMmDW",
+        "is_local": false,
+        "name": "MY HEART DRAWS A DREAM (hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/3af81fbb949fcd5fffe72a3ec870c9bba6a9686d?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4AoZXWfxrHnd7QDykyMmDW"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 230413,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7xuSoIK5OZnj1gxWnyrQE6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7xuSoIK5OZnj1gxWnyrQE6",
+        "id": "7xuSoIK5OZnj1gxWnyrQE6",
+        "is_local": false,
+        "name": "Feeling Fine 2007 (TETSU P'UNKless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/35019af1e04833f49658ff2b3458b630d45d213c?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:7xuSoIK5OZnj1gxWnyrQE6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:53dyGHtyFiQzXzEp6GWlBf"
+}

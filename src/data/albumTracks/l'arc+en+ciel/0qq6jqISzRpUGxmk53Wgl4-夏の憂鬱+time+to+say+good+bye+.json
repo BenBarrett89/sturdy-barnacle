@@ -1,0 +1,161 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "1995 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292979052"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0qq6jqISzRpUGxmk53Wgl4"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0qq6jqISzRpUGxmk53Wgl4",
+  "id": "0qq6jqISzRpUGxmk53Wgl4",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d39a56b0f3878b2f20ad572f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d39a56b0f3878b2f20ad572f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d39a56b0f3878b2f20ad572f",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "夏の憂鬱 [time to say good-bye]",
+  "popularity": 14,
+  "release_date": "1995-10-21",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0qq6jqISzRpUGxmk53Wgl4/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 301400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6szVZWpsHEysQQXsAqDpyC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6szVZWpsHEysQQXsAqDpyC",
+        "id": "6szVZWpsHEysQQXsAqDpyC",
+        "is_local": false,
+        "name": "夏の憂鬱 [time to say good-bye]",
+        "preview_url": "https://p.scdn.co/mp3-preview/c5ffea23dfd65eb8d31e01900f6387a15d1bc08b?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6szVZWpsHEysQQXsAqDpyC"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 274333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4UuAl2MzPPxgzSkptgXtHn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4UuAl2MzPPxgzSkptgXtHn",
+        "id": "4UuAl2MzPPxgzSkptgXtHn",
+        "is_local": false,
+        "name": "あなたのために",
+        "preview_url": "https://p.scdn.co/mp3-preview/b3e6c6fe99ecb7ea1a95749da0bec12f3067a907?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4UuAl2MzPPxgzSkptgXtHn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 300426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Ic4npPNERpw96p16H0dAS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Ic4npPNERpw96p16H0dAS",
+        "id": "1Ic4npPNERpw96p16H0dAS",
+        "is_local": false,
+        "name": "夏の憂鬱 [time to say good-bye](Voiceless Version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/a380d33a19022c401b3c3223002762bd21ef75a2?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1Ic4npPNERpw96p16H0dAS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:0qq6jqISzRpUGxmk53Wgl4"
+}

@@ -1,0 +1,161 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "1996 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292978833"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5gwxQZVI6xP1O9B1GFgss5"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5gwxQZVI6xP1O9B1GFgss5",
+  "id": "5gwxQZVI6xP1O9B1GFgss5",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cc8855cbc7bcfffb5b638766",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cc8855cbc7bcfffb5b638766",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cc8855cbc7bcfffb5b638766",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "Lies and Truth",
+  "popularity": 20,
+  "release_date": "1996-11-21",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5gwxQZVI6xP1O9B1GFgss5/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 327560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3GVATwpfT1AT6vdm0GJbMI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3GVATwpfT1AT6vdm0GJbMI",
+        "id": "3GVATwpfT1AT6vdm0GJbMI",
+        "is_local": false,
+        "name": "Lies and Truth",
+        "preview_url": "https://p.scdn.co/mp3-preview/d32d7f5dc6fdddc8b415bd76435aa40c8c2fc757?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3GVATwpfT1AT6vdm0GJbMI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 250973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bc8CLS17DMIkkXcaGCiF2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0bc8CLS17DMIkkXcaGCiF2",
+        "id": "0bc8CLS17DMIkkXcaGCiF2",
+        "is_local": false,
+        "name": "賽は投げられた",
+        "preview_url": "https://p.scdn.co/mp3-preview/5775564bcbe3c2152349e7bc59122e919dd1f282?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0bc8CLS17DMIkkXcaGCiF2"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 325826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5B3k82EBe92afMP0jwwtyP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5B3k82EBe92afMP0jwwtyP",
+        "id": "5B3k82EBe92afMP0jwwtyP",
+        "is_local": false,
+        "name": "Lies and Truth (hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/d257080cb2f05d94b1db3b45d0a0e3c0d97df062?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5B3k82EBe92afMP0jwwtyP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:5gwxQZVI6xP1O9B1GFgss5"
+}

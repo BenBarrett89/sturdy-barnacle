@@ -1,0 +1,223 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2005 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292978819"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7nfoKfs62AeqK1iB5WT3Ls"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7nfoKfs62AeqK1iB5WT3Ls",
+  "id": "7nfoKfs62AeqK1iB5WT3Ls",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273487c148460c7f9c1763ed872",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02487c148460c7f9c1763ed872",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851487c148460c7f9c1763ed872",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "Killing Me",
+  "popularity": 15,
+  "release_date": "2005-01-13",
+  "release_date_precision": "day",
+  "total_tracks": 5,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7nfoKfs62AeqK1iB5WT3Ls/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 242826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4CdL4sgazEzl8uHQd2g2bU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4CdL4sgazEzl8uHQd2g2bU",
+        "id": "4CdL4sgazEzl8uHQd2g2bU",
+        "is_local": false,
+        "name": "Killing Me",
+        "preview_url": "https://p.scdn.co/mp3-preview/92491542a8892e5a6c836451f06baffc92d0a5cf?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4CdL4sgazEzl8uHQd2g2bU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 216240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5vGgEyiJ9x5N11dqMVGzem"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5vGgEyiJ9x5N11dqMVGzem",
+        "id": "5vGgEyiJ9x5N11dqMVGzem",
+        "is_local": false,
+        "name": "Round and Round 2005",
+        "preview_url": "https://p.scdn.co/mp3-preview/b4206778611766af59f83a5c17f82a2082b9a7b3?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5vGgEyiJ9x5N11dqMVGzem"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 216480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4HV07LfCik7JPDtU4PBX1o"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4HV07LfCik7JPDtU4PBX1o",
+        "id": "4HV07LfCik7JPDtU4PBX1o",
+        "is_local": false,
+        "name": "Round and Round 2005 feat. P'UNK青木",
+        "preview_url": "https://p.scdn.co/mp3-preview/91a9b71d659dd8c101ec017f822e2ed25fa519d8?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4HV07LfCik7JPDtU4PBX1o"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 242720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30nTqFCjrTUi2cvQ54lYN6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/30nTqFCjrTUi2cvQ54lYN6",
+        "id": "30nTqFCjrTUi2cvQ54lYN6",
+        "is_local": false,
+        "name": "Killing Me (hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/fec8dbc10480cf3e1d114f13ae522111a86e6a3c?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:30nTqFCjrTUi2cvQ54lYN6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 216000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4GiuO5hyENPKxzYQniBbUF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4GiuO5hyENPKxzYQniBbUF",
+        "id": "4GiuO5hyENPKxzYQniBbUF",
+        "is_local": false,
+        "name": "Round and Round 2005 (TETSU P'UNKless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/b5e4593eafc4e83ce7f425a0dd9dac9b793916a7?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4GiuO5hyENPKxzYQniBbUF"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 5
+  },
+  "type": "album",
+  "uri": "spotify:album:7nfoKfs62AeqK1iB5WT3Ls"
+}

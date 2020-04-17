@@ -1,0 +1,99 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "US"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2010 Ki/oon Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "884977615999"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7sYYaissgnnnsLkw0zWdbj"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7sYYaissgnnnsLkw0zWdbj",
+  "id": "7sYYaissgnnnsLkw0zWdbj",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273957d29fe382243aab0d36d62",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02957d29fe382243aab0d36d62",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851957d29fe382243aab0d36d62",
+      "width": 64
+    }
+  ],
+  "label": "Ki/oon Music Inc.",
+  "name": "I Love Rock'n Roll",
+  "popularity": 0,
+  "release_date": "2010-06-08",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7sYYaissgnnnsLkw0zWdbj/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 171813,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0tA7I2P5niWOepS8HBNOpZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0tA7I2P5niWOepS8HBNOpZ",
+        "id": "0tA7I2P5niWOepS8HBNOpZ",
+        "is_local": false,
+        "name": "I Love Rock'n Roll",
+        "preview_url": "https://p.scdn.co/mp3-preview/c7a92403e0274dc73dc014924d49ecbfeddc72aa?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0tA7I2P5niWOepS8HBNOpZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:7sYYaissgnnnsLkw0zWdbj"
+}

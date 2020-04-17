@@ -1,0 +1,223 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2004 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292979076"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6d3vN0L2lzLvtET3zVufMM"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6d3vN0L2lzLvtET3zVufMM",
+  "id": "6d3vN0L2lzLvtET3zVufMM",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d919c1af5c77c11c36a7a03",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d919c1af5c77c11c36a7a03",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d919c1af5c77c11c36a7a03",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "瞳の住人",
+  "popularity": 20,
+  "release_date": "2004-03-03",
+  "release_date_precision": "day",
+  "total_tracks": 5,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6d3vN0L2lzLvtET3zVufMM/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 357306,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vwnBSDXAAI7V1OJZeqD1Z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2vwnBSDXAAI7V1OJZeqD1Z",
+        "id": "2vwnBSDXAAI7V1OJZeqD1Z",
+        "is_local": false,
+        "name": "瞳の住人",
+        "preview_url": "https://p.scdn.co/mp3-preview/d2628a45e8441863e690cbc7db29dbb12a183382?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2vwnBSDXAAI7V1OJZeqD1Z"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 356960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2c1Audw3X0FtxLTpmApVfl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2c1Audw3X0FtxLTpmApVfl",
+        "id": "2c1Audw3X0FtxLTpmApVfl",
+        "is_local": false,
+        "name": "瞳の住人 (hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/94eb54b105bdbc158cd273e934e1a8b07b6a819a?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2c1Audw3X0FtxLTpmApVfl"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 227800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3jJaQZPn8zaX12OZ7P6Ukc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3jJaQZPn8zaX12OZ7P6Ukc",
+        "id": "3jJaQZPn8zaX12OZ7P6Ukc",
+        "is_local": false,
+        "name": "READY STEADY GO (ken READY)",
+        "preview_url": "https://p.scdn.co/mp3-preview/b6c5f9760513cdca3b87a8a14cf1c32c6df5ca93?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3jJaQZPn8zaX12OZ7P6Ukc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 227773,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VaomYrJueQDNSQYGgWPIx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3VaomYrJueQDNSQYGgWPIx",
+        "id": "3VaomYrJueQDNSQYGgWPIx",
+        "is_local": false,
+        "name": "READY STEADY GO (tetsu READY)",
+        "preview_url": "https://p.scdn.co/mp3-preview/157d8bbb0a29f2c41087fe3df996c54a66e5116e?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3VaomYrJueQDNSQYGgWPIx"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 228160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Jxksgbwknq6gL5OGtaUsM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7Jxksgbwknq6gL5OGtaUsM",
+        "id": "7Jxksgbwknq6gL5OGtaUsM",
+        "is_local": false,
+        "name": "READY STEADY GO (yukihiro READY)",
+        "preview_url": "https://p.scdn.co/mp3-preview/e844ccaf4ce086b7f7349cca4e5be02c145c6088?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:7Jxksgbwknq6gL5OGtaUsM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 5
+  },
+  "type": "album",
+  "uri": "spotify:album:6d3vN0L2lzLvtET3zVufMM"
+}

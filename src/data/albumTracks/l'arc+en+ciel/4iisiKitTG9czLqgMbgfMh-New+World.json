@@ -1,0 +1,192 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2005 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292978956"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4iisiKitTG9czLqgMbgfMh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4iisiKitTG9czLqgMbgfMh",
+  "id": "4iisiKitTG9czLqgMbgfMh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734a269b0a9e2b45f912bc16d5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a269b0a9e2b45f912bc16d5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514a269b0a9e2b45f912bc16d5",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "New World",
+  "popularity": 14,
+  "release_date": "2005-04-06",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4iisiKitTG9czLqgMbgfMh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 250960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7azygI25psQuyYgFqXeQeh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7azygI25psQuyYgFqXeQeh",
+        "id": "7azygI25psQuyYgFqXeQeh",
+        "is_local": false,
+        "name": "New World",
+        "preview_url": "https://p.scdn.co/mp3-preview/dc3969b9f8b5c65ac7d455f3608d91d52432cbde?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7azygI25psQuyYgFqXeQeh"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 275400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0MyAXCVylQfHD86bVlb0wR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0MyAXCVylQfHD86bVlb0wR",
+        "id": "0MyAXCVylQfHD86bVlb0wR",
+        "is_local": false,
+        "name": "花葬 平成十七年",
+        "preview_url": "https://p.scdn.co/mp3-preview/8f67233fa433b8b915dff4825603a31ee24d9b50?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0MyAXCVylQfHD86bVlb0wR"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 250440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tS3jIr43AK6exf181cbMH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2tS3jIr43AK6exf181cbMH",
+        "id": "2tS3jIr43AK6exf181cbMH",
+        "is_local": false,
+        "name": "New World (hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/f065eb75e16782e47ba13ed0e7eff4f4bd67f214?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2tS3jIr43AK6exf181cbMH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 275293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gyNdPwEi4Mws6tYFpgeWr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7gyNdPwEi4Mws6tYFpgeWr",
+        "id": "7gyNdPwEi4Mws6tYFpgeWr",
+        "is_local": false,
+        "name": "花葬 平成十七年(TETSU P'UNKless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/dd1894c802bb1c3316e362970012e51f5772d9cd?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:7gyNdPwEi4Mws6tYFpgeWr"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:4iisiKitTG9czLqgMbgfMh"
+}

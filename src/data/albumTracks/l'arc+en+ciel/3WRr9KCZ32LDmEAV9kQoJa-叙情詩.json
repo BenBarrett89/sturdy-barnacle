@@ -1,0 +1,192 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2005 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292979069"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3WRr9KCZ32LDmEAV9kQoJa"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3WRr9KCZ32LDmEAV9kQoJa",
+  "id": "3WRr9KCZ32LDmEAV9kQoJa",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27337fe97153beed3703519a00e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0237fe97153beed3703519a00e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485137fe97153beed3703519a00e",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "叙情詩",
+  "popularity": 12,
+  "release_date": "2005-05-18",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3WRr9KCZ32LDmEAV9kQoJa/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 311066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2yQ6axtXzVYLZkbwwP0D8k"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2yQ6axtXzVYLZkbwwP0D8k",
+        "id": "2yQ6axtXzVYLZkbwwP0D8k",
+        "is_local": false,
+        "name": "叙情詩",
+        "preview_url": "https://p.scdn.co/mp3-preview/279663501a0d018b9233ed7a5c74c4d3fc1b0df8?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2yQ6axtXzVYLZkbwwP0D8k"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 228800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ef0xdqGebuQ4PGxVd1dqT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ef0xdqGebuQ4PGxVd1dqT",
+        "id": "5ef0xdqGebuQ4PGxVd1dqT",
+        "is_local": false,
+        "name": "HEAVEN'S DRIVE 2005",
+        "preview_url": "https://p.scdn.co/mp3-preview/839cd7902cd4373c4f5676726af6cc8a4215a0c2?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5ef0xdqGebuQ4PGxVd1dqT"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 310400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/28g2ha5yrTgqRDuXcTqMss"
+        },
+        "href": "https://api.spotify.com/v1/tracks/28g2ha5yrTgqRDuXcTqMss",
+        "id": "28g2ha5yrTgqRDuXcTqMss",
+        "is_local": false,
+        "name": "叙情詩 (hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/7d553847fbb05d6a4dbb5d3efc272d390dfa0fb6?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:28g2ha5yrTgqRDuXcTqMss"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 227933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3e8rK0TDE6l8pWfLUgviPR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3e8rK0TDE6l8pWfLUgviPR",
+        "id": "3e8rK0TDE6l8pWfLUgviPR",
+        "is_local": false,
+        "name": "HEAVEN'S DRIVE 2005 (TETSU P'UNKless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/096e5528f05a39823e0f68f596cda0f0ecb4ca1e?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3e8rK0TDE6l8pWfLUgviPR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:3WRr9KCZ32LDmEAV9kQoJa"
+}

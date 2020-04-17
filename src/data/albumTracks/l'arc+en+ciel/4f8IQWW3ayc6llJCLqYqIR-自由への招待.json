@@ -1,0 +1,192 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+      },
+      "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+      "id": "6jTjjAjvYvMYfaqi837p5x",
+      "name": "L'Arc-en-Ciel",
+      "type": "artist",
+      "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2004 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4562292978659"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4f8IQWW3ayc6llJCLqYqIR"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4f8IQWW3ayc6llJCLqYqIR",
+  "id": "4f8IQWW3ayc6llJCLqYqIR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736e93802fd6b9aca866ed7788",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026e93802fd6b9aca866ed7788",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516e93802fd6b9aca866ed7788",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "自由への招待",
+  "popularity": 15,
+  "release_date": "2004-06-02",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4f8IQWW3ayc6llJCLqYqIR/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 240893,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WcvXnQ0XFgGOIv1b8YCbN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0WcvXnQ0XFgGOIv1b8YCbN",
+        "id": "0WcvXnQ0XFgGOIv1b8YCbN",
+        "is_local": false,
+        "name": "自由への招待",
+        "preview_url": "https://p.scdn.co/mp3-preview/f3212c4b96bcba7f98bbf772e0eb84248e0bc378?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0WcvXnQ0XFgGOIv1b8YCbN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jTjjAjvYvMYfaqi837p5x",
+            "id": "6jTjjAjvYvMYfaqi837p5x",
+            "name": "L'Arc-en-Ciel",
+            "type": "artist",
+            "uri": "spotify:artist:6jTjjAjvYvMYfaqi837p5x"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 240933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/07Hq70kcQE3eM90MnllxdM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/07Hq70kcQE3eM90MnllxdM",
+        "id": "07Hq70kcQE3eM90MnllxdM",
+        "is_local": false,
+        "name": "自由への招待 (hydeless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/d663787088feec3825cbb195e71ce0a7ce55a742?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:07Hq70kcQE3eM90MnllxdM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 256440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0y4edJRFg6uu7lYmsxB4Pm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0y4edJRFg6uu7lYmsxB4Pm",
+        "id": "0y4edJRFg6uu7lYmsxB4Pm",
+        "is_local": false,
+        "name": "milky way",
+        "preview_url": "https://p.scdn.co/mp3-preview/f1547f268588678f247cc11bcf49f7f51a065082?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0y4edJRFg6uu7lYmsxB4Pm"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3zCyKFmflQ1bZEg7KhjeI9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3zCyKFmflQ1bZEg7KhjeI9",
+            "id": "3zCyKFmflQ1bZEg7KhjeI9",
+            "name": "P'UNK～EN～CIEL",
+            "type": "artist",
+            "uri": "spotify:artist:3zCyKFmflQ1bZEg7KhjeI9"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 252933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WLHmGEHiPZzAuwYQJke5F"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0WLHmGEHiPZzAuwYQJke5F",
+        "id": "0WLHmGEHiPZzAuwYQJke5F",
+        "is_local": false,
+        "name": "milky way (TETSU P'UNKless version)",
+        "preview_url": "https://p.scdn.co/mp3-preview/d5ca9098e5064c51acc391ffe5443ce3d42a7ed3?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0WLHmGEHiPZzAuwYQJke5F"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:4f8IQWW3ayc6llJCLqYqIR"
+}
