@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4cUPXIFWrfVo8xmU1nHy0q"
+  },
+  "followers": {
+    "href": null,
+    "total": 20170
+  },
+  "genres": [
+    "digital hardcore",
+    "j-metal",
+    "j-punk",
+    "j-rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4cUPXIFWrfVo8xmU1nHy0q",
+  "id": "4cUPXIFWrfVo8xmU1nHy0q",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d0c8290f8f516c187eb7d8a0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d0c8290f8f516c187eb7d8a0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d0c8290f8f516c187eb7d8a0",
+      "width": 64
+    }
+  ],
+  "name": "The Mad Capsule Markets",
+  "popularity": 34,
+  "type": "artist",
+  "uri": "spotify:artist:4cUPXIFWrfVo8xmU1nHy0q"
+}

@@ -36,7 +36,23 @@ https://api.spotify.com/v1/audio-analysis/71VlZmg70JQoQ4ibA1nxsE
 
 ## Analyse data
 
-Analyse
+Tempo Averages
+Tempo Violin Plots
+Tempo through album
+Key Averages / Frequencies - signature, major, minor
+Key patterns through albums
+Valence Average
+Valence Violin Plots
+Valence through album
+Danceability Average
+Danceability Violin Plots
+Danceability through album
+Energy Average
+Energy Violin Plots
+Energy through album
+Loudness Average
+Loudness Violin Plots
+Loudness through album
 
 ## Display data
 
