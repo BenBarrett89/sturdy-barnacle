@@ -1,0 +1,134 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "1997 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "1997 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002358281"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3s6qgNYQNebFXPVDJ1EYUt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3s6qgNYQNebFXPVDJ1EYUt",
+  "id": "3s6qgNYQNebFXPVDJ1EYUt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e0d7e192b9871e2dd95d7222",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e0d7e192b9871e2dd95d7222",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e0d7e192b9871e2dd95d7222",
+      "width": 64
+    }
+  ],
+  "label": "INVITATION",
+  "name": "Rainy Day And Day",
+  "popularity": 19,
+  "release_date": "1997-10-22",
+  "release_date_precision": "day",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3s6qgNYQNebFXPVDJ1EYUt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 205681,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7D4d7rK7RwpyhHzceF69mN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7D4d7rK7RwpyhHzceF69mN",
+        "id": "7D4d7rK7RwpyhHzceF69mN",
+        "is_local": false,
+        "name": "Rainy Day And Day",
+        "preview_url": "https://p.scdn.co/mp3-preview/01ee5c2f6417d72ce8fb2297cc4027a66f55d206?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7D4d7rK7RwpyhHzceF69mN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 173313,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6LIidx0iXH6VU6XFMpcXGn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6LIidx0iXH6VU6XFMpcXGn",
+        "id": "6LIidx0iXH6VU6XFMpcXGn",
+        "is_local": false,
+        "name": "Invitation",
+        "preview_url": "https://p.scdn.co/mp3-preview/67b7dac17f3a31847108e873503c03c42433204d?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6LIidx0iXH6VU6XFMpcXGn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:3s6qgNYQNebFXPVDJ1EYUt"
+}

@@ -1,0 +1,175 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "1998 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "1998 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002365340"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5yUgXqVH9pSvDpUJi0WkSj"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5yUgXqVH9pSvDpUJi0WkSj",
+  "id": "5yUgXqVH9pSvDpUJi0WkSj",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732d3bc098d22fd7cc3d28d5ab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022d3bc098d22fd7cc3d28d5ab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512d3bc098d22fd7cc3d28d5ab",
+      "width": 64
+    }
+  ],
+  "label": "HAPPYHOUSE",
+  "name": "陽はまたのぼりくりかえす",
+  "popularity": 31,
+  "release_date": "1998-05-21",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5yUgXqVH9pSvDpUJi0WkSj/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 433226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DKTDOOHd2YS9tB8TmYcVy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3DKTDOOHd2YS9tB8TmYcVy",
+        "id": "3DKTDOOHd2YS9tB8TmYcVy",
+        "is_local": false,
+        "name": "陽はまたのぼりくりかえす",
+        "preview_url": "https://p.scdn.co/mp3-preview/088e50a4491cc113efe5a79a15427d1d498ad4a9?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3DKTDOOHd2YS9tB8TmYcVy"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 263822,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15qGkOcnO4vhTg7RpOOS9J"
+        },
+        "href": "https://api.spotify.com/v1/tracks/15qGkOcnO4vhTg7RpOOS9J",
+        "id": "15qGkOcnO4vhTg7RpOOS9J",
+        "is_local": false,
+        "name": "Don't worry 'bout me",
+        "preview_url": "https://p.scdn.co/mp3-preview/cb826e9c4877b8899f714ebe4d03afc06151ca3b?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:15qGkOcnO4vhTg7RpOOS9J"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YfCO4bUeuRtUYo6tTPVcL"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YfCO4bUeuRtUYo6tTPVcL",
+            "id": "3YfCO4bUeuRtUYo6tTPVcL",
+            "name": "DJ BOTS",
+            "type": "artist",
+            "uri": "spotify:artist:3YfCO4bUeuRtUYo6tTPVcL"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 307704,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EJZjVrK0Ml8hrQMtqBX27"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7EJZjVrK0Ml8hrQMtqBX27",
+        "id": "7EJZjVrK0Ml8hrQMtqBX27",
+        "is_local": false,
+        "name": "Cowboy Fuck! (featuring DJ BOTS)",
+        "preview_url": "https://p.scdn.co/mp3-preview/403c1e31374ff1300ed30d5cd18dacc2c1ced850?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7EJZjVrK0Ml8hrQMtqBX27"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:5yUgXqVH9pSvDpUJi0WkSj"
+}

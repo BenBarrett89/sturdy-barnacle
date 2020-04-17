@@ -1,0 +1,165 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2013 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2013 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002660957"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5gIX7HVSidnldkV46vI3uf"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5gIX7HVSidnldkV46vI3uf",
+  "id": "5gIX7HVSidnldkV46vI3uf",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ebc064b3279ce7906109f47f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ebc064b3279ce7906109f47f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ebc064b3279ce7906109f47f",
+      "width": 64
+    }
+  ],
+  "label": "MOB SQUAD",
+  "name": "Lily",
+  "popularity": 13,
+  "release_date": "2013-11-27",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5gIX7HVSidnldkV46vI3uf/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 266204,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DRzu1vThGFSXWYBv4exdg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2DRzu1vThGFSXWYBv4exdg",
+        "id": "2DRzu1vThGFSXWYBv4exdg",
+        "is_local": false,
+        "name": "Lily",
+        "preview_url": "https://p.scdn.co/mp3-preview/9d225c03124fbace6f30356a5e4d6f9fe429f5ba?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2DRzu1vThGFSXWYBv4exdg"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 249450,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3V2bDajC4JPU4yV8NlwsXe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3V2bDajC4JPU4yV8NlwsXe",
+        "id": "3V2bDajC4JPU4yV8NlwsXe",
+        "is_local": false,
+        "name": "Somewhere",
+        "preview_url": "https://p.scdn.co/mp3-preview/31b7b0c4a9d44f30ffb31b22b184c9813d1118c9?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3V2bDajC4JPU4yV8NlwsXe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 266626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3clsl6T6rVe0A3tG3awCRj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3clsl6T6rVe0A3tG3awCRj",
+        "id": "3clsl6T6rVe0A3tG3awCRj",
+        "is_local": false,
+        "name": "<Live At RUSH BALL 15th> For divers area",
+        "preview_url": "https://p.scdn.co/mp3-preview/d1b371d52936961324f3dda9f83b62dc0a5ca647?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3clsl6T6rVe0A3tG3awCRj"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:5gIX7HVSidnldkV46vI3uf"
+}

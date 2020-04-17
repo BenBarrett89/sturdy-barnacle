@@ -1,0 +1,320 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "1997 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "1997 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002345670"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4IDYMogBLfpzNEiXOIDLRV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4IDYMogBLfpzNEiXOIDLRV",
+  "id": "4IDYMogBLfpzNEiXOIDLRV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27315f9d8894574101dbc7b2e44",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0215f9d8894574101dbc7b2e44",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485115f9d8894574101dbc7b2e44",
+      "width": 64
+    }
+  ],
+  "label": "INVITATION",
+  "name": "The Day dragged on",
+  "popularity": 25,
+  "release_date": "1997-02-21",
+  "release_date_precision": "day",
+  "total_tracks": 8,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4IDYMogBLfpzNEiXOIDLRV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 131701,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1fOlaBgSAn1figl5Xj8r2g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1fOlaBgSAn1figl5Xj8r2g",
+        "id": "1fOlaBgSAn1figl5Xj8r2g",
+        "is_local": false,
+        "name": "The Day dragged on",
+        "preview_url": "https://p.scdn.co/mp3-preview/f83224d5dfe0660c335ab292dbdb03491fbda29b?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1fOlaBgSAn1figl5Xj8r2g"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 242809,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/750HN0FmtpPFQYMfrAprn1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/750HN0FmtpPFQYMfrAprn1",
+        "id": "750HN0FmtpPFQYMfrAprn1",
+        "is_local": false,
+        "name": "SiVA",
+        "preview_url": "https://p.scdn.co/mp3-preview/6f2403799e0e50d960239bb4b31bd33dddb6c038?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:750HN0FmtpPFQYMfrAprn1"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 168941,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ywVRl5EEem9KG2p9IeuAo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ywVRl5EEem9KG2p9IeuAo",
+        "id": "5ywVRl5EEem9KG2p9IeuAo",
+        "is_local": false,
+        "name": "天使ノロック",
+        "preview_url": "https://p.scdn.co/mp3-preview/01528cd0736d629f22718a266b34722d2d60b203?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5ywVRl5EEem9KG2p9IeuAo"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 293686,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Y8Js814BB1IslGWU7vKb3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Y8Js814BB1IslGWU7vKb3",
+        "id": "6Y8Js814BB1IslGWU7vKb3",
+        "is_local": false,
+        "name": "Chime",
+        "preview_url": "https://p.scdn.co/mp3-preview/b1ec3099fbbd619d037e79b88462f5a5d7a4cfaf?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6Y8Js814BB1IslGWU7vKb3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 156585,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RSrxIrAsDUGycPKcdOlqJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2RSrxIrAsDUGycPKcdOlqJ",
+        "id": "2RSrxIrAsDUGycPKcdOlqJ",
+        "is_local": false,
+        "name": "チェルノブイリに悲しい雨が降る",
+        "preview_url": "https://p.scdn.co/mp3-preview/d317f40b6fbecb156e668cf3c0db2f1f0d98da48?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2RSrxIrAsDUGycPKcdOlqJ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 212904,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0i5wICB3HU4HVCQ4xdlqlS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0i5wICB3HU4HVCQ4xdlqlS",
+        "id": "0i5wICB3HU4HVCQ4xdlqlS",
+        "is_local": false,
+        "name": "Realism",
+        "preview_url": "https://p.scdn.co/mp3-preview/9b9139152a08f9d0f4c04b4c65d856d1866183a2?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0i5wICB3HU4HVCQ4xdlqlS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 158049,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35X0D5YkKnt2C8fe60W5O1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/35X0D5YkKnt2C8fe60W5O1",
+        "id": "35X0D5YkKnt2C8fe60W5O1",
+        "is_local": false,
+        "name": "羊を数えても夜は終わらない",
+        "preview_url": "https://p.scdn.co/mp3-preview/93ef1f62ebde4234e2f9ce94e5d3d4f3626ee4e9?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:35X0D5YkKnt2C8fe60W5O1"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 221529,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/59yMHc1aX2XeTYLJ6CeXvK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/59yMHc1aX2XeTYLJ6CeXvK",
+        "id": "59yMHc1aX2XeTYLJ6CeXvK",
+        "is_local": false,
+        "name": "FAke×Life",
+        "preview_url": "https://p.scdn.co/mp3-preview/9f06ad0003f3198f6dea990cc650115b74ed9981?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:59yMHc1aX2XeTYLJ6CeXvK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 8
+  },
+  "type": "album",
+  "uri": "spotify:album:4IDYMogBLfpzNEiXOIDLRV"
+}

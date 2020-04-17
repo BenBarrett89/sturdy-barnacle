@@ -1,0 +1,293 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+      "id": "3kNqzLmW33fQIfmZ1OfqMA",
+      "name": "Dir En Grey",
+      "type": "artist",
+      "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BE",
+    "BG",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SK",
+    "TR"
+  ],
+  "copyrights": [
+    {
+      "text": "Nippon Television Music Corporation",
+      "type": "C"
+    },
+    {
+      "text": "Firewall Div.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3610152348034"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/78KrNh8dEx2d0FhhDdlFzx"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/78KrNh8dEx2d0FhhDdlFzx",
+  "id": "78KrNh8dEx2d0FhhDdlFzx",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731074111cbbb3078480f0c32b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021074111cbbb3078480f0c32b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511074111cbbb3078480f0c32b",
+      "width": 64
+    }
+  ],
+  "label": "Okami Records",
+  "name": "Rinkaku",
+  "popularity": 5,
+  "release_date": "2013-02-01",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/78KrNh8dEx2d0FhhDdlFzx/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 341262,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2mrGOzCdsrLzCxpMoZLD5U"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2mrGOzCdsrLzCxpMoZLD5U",
+        "id": "2mrGOzCdsrLzCxpMoZLD5U",
+        "is_local": false,
+        "name": "Rinkaku",
+        "preview_url": "https://p.scdn.co/mp3-preview/4cd4b3ccbaf75f715709b00766b8069d12c7033d?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2mrGOzCdsrLzCxpMoZLD5U"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 232951,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6IcpPdZRImrhzrb7zo12wF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6IcpPdZRImrhzrb7zo12wF",
+        "id": "6IcpPdZRImrhzrb7zo12wF",
+        "is_local": false,
+        "name": "Kiri to mayu",
+        "preview_url": "https://p.scdn.co/mp3-preview/d5649df321d4bb73ae6afec73a3a65b5df206fc0?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6IcpPdZRImrhzrb7zo12wF"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 324000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HZmhTBcwolOAeBiyvRyNk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5HZmhTBcwolOAeBiyvRyNk",
+        "id": "5HZmhTBcwolOAeBiyvRyNk",
+        "is_local": false,
+        "name": "Rinkaku - Eternal Slumber Mix",
+        "preview_url": "https://p.scdn.co/mp3-preview/6220bb56b5b5d75ad70a2f9fca0a1f32ec1ae0ff?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5HZmhTBcwolOAeBiyvRyNk"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:78KrNh8dEx2d0FhhDdlFzx"
+}

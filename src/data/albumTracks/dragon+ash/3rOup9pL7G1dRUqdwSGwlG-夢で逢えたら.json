@@ -1,0 +1,196 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2006 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2006 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002515486"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3rOup9pL7G1dRUqdwSGwlG"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3rOup9pL7G1dRUqdwSGwlG",
+  "id": "3rOup9pL7G1dRUqdwSGwlG",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f1306e8ac4e7544cbbdfb2a0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f1306e8ac4e7544cbbdfb2a0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f1306e8ac4e7544cbbdfb2a0",
+      "width": 64
+    }
+  ],
+  "label": "MOB SQUAD",
+  "name": "夢で逢えたら",
+  "popularity": 22,
+  "release_date": "2006-12-06",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3rOup9pL7G1dRUqdwSGwlG/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 279872,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XxWo59ARl1Nq9NS02fos3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1XxWo59ARl1Nq9NS02fos3",
+        "id": "1XxWo59ARl1Nq9NS02fos3",
+        "is_local": false,
+        "name": "夢で逢えたら",
+        "preview_url": "https://p.scdn.co/mp3-preview/3fdc5377ce325e113f748513f6f82f4696d13268?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1XxWo59ARl1Nq9NS02fos3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 255113,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0z8aErkaMoasBuB5st1zOc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0z8aErkaMoasBuB5st1zOc",
+        "id": "0z8aErkaMoasBuB5st1zOc",
+        "is_local": false,
+        "name": "Rainy",
+        "preview_url": "https://p.scdn.co/mp3-preview/edd6f7c4b6d0d175d5f0439a7f7b629d1170f599?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0z8aErkaMoasBuB5st1zOc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 275680,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2GFuzT9haQKCHD9dB7MdaS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2GFuzT9haQKCHD9dB7MdaS",
+        "id": "2GFuzT9haQKCHD9dB7MdaS",
+        "is_local": false,
+        "name": "Ivory(UP, BUSTLE & OUT REMIX)",
+        "preview_url": "https://p.scdn.co/mp3-preview/a22d522e3dc458c71fd59ea58acc3d6e5ed8cf6e?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2GFuzT9haQKCHD9dB7MdaS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 271326,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qrt3TlVuXUKIs3GAydmfG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6qrt3TlVuXUKIs3GAydmfG",
+        "id": "6qrt3TlVuXUKIs3GAydmfG",
+        "is_local": false,
+        "name": "few lights till night(UP, BUSTLE & OUT REMIX)",
+        "preview_url": "https://p.scdn.co/mp3-preview/531221a0afbd79b473a0e8bcf5afef40d0b9e48f?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6qrt3TlVuXUKIs3GAydmfG"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:3rOup9pL7G1dRUqdwSGwlG"
+}

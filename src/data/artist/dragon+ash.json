@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+  },
+  "followers": {
+    "href": null,
+    "total": 129862
+  },
+  "genres": [
+    "j-pop",
+    "j-rap",
+    "j-rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+  "id": "2wDlv5Qp9pffOqnO4vdn8L",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/7e45b9c7230b6dde3f40d2a257eca3c946308b9a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/7298a05eb5c50d0cb3e374bf25ddd252e6c9c29f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/e8e9a0993d9452f1337741bf40bcd7d8a3a3ae17",
+      "width": 160
+    }
+  ],
+  "name": "Dragon Ash",
+  "popularity": 52,
+  "type": "artist",
+  "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+}

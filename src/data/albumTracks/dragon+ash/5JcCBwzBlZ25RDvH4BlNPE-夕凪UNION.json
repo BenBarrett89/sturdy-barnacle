@@ -1,0 +1,165 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2005 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2005 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002480470"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5JcCBwzBlZ25RDvH4BlNPE"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5JcCBwzBlZ25RDvH4BlNPE",
+  "id": "5JcCBwzBlZ25RDvH4BlNPE",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27390f0083d8cd83e1b2990ef8f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0290f0083d8cd83e1b2990ef8f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485190f0083d8cd83e1b2990ef8f",
+      "width": 64
+    }
+  ],
+  "label": "MOB SQUAD",
+  "name": "夕凪UNION",
+  "popularity": 21,
+  "release_date": "2005-07-13",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5JcCBwzBlZ25RDvH4BlNPE/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 284249,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2JhbSYm4ytbMmCdmPafJgi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2JhbSYm4ytbMmCdmPafJgi",
+        "id": "2JhbSYm4ytbMmCdmPafJgi",
+        "is_local": false,
+        "name": "夕凪UNION",
+        "preview_url": "https://p.scdn.co/mp3-preview/b3d8449085e5cf864a3ec1f3d16a10acb236099b?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2JhbSYm4ytbMmCdmPafJgi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 270427,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tIY5OjCv3oDZ08p0WakUU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5tIY5OjCv3oDZ08p0WakUU",
+        "id": "5tIY5OjCv3oDZ08p0WakUU",
+        "is_local": false,
+        "name": "ROUND UP",
+        "preview_url": "https://p.scdn.co/mp3-preview/37eb9ae3e7806b07f9eba40012e1d716f5167b73?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5tIY5OjCv3oDZ08p0WakUU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 181704,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0i0CSQjnUQggc2gzkVnpZO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0i0CSQjnUQggc2gzkVnpZO",
+        "id": "0i0CSQjnUQggc2gzkVnpZO",
+        "is_local": false,
+        "name": "SPRIGGAN",
+        "preview_url": "https://p.scdn.co/mp3-preview/85d7915f8cac0fb1503a60848dbd29fabc129a9c?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0i0CSQjnUQggc2gzkVnpZO"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:5JcCBwzBlZ25RDvH4BlNPE"
+}

@@ -1,0 +1,216 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2000 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2000 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002397396"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0ZwKyX2I5DDShO7saMZPCF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0ZwKyX2I5DDShO7saMZPCF",
+  "id": "0ZwKyX2I5DDShO7saMZPCF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ab364c051345b2dd41d7a009",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ab364c051345b2dd41d7a009",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ab364c051345b2dd41d7a009",
+      "width": 64
+    }
+  ],
+  "label": "HAPPYHOUSE",
+  "name": "Deep Impact",
+  "popularity": 29,
+  "release_date": "2000-03-15",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0ZwKyX2I5DDShO7saMZPCF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AIgd1f6tXGh7TALqY7uQm",
+            "id": "2AIgd1f6tXGh7TALqY7uQm",
+            "name": "Rappagariya",
+            "type": "artist",
+            "uri": "spotify:artist:2AIgd1f6tXGh7TALqY7uQm"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 272308,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/37QOxzUrjiM9DhPYOvgBiA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/37QOxzUrjiM9DhPYOvgBiA",
+        "id": "37QOxzUrjiM9DhPYOvgBiA",
+        "is_local": false,
+        "name": "Deep Impact feat. Rappagariya",
+        "preview_url": "https://p.scdn.co/mp3-preview/cd362f8fb68f6e17dd20996809a2129fbcfc370d?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:37QOxzUrjiM9DhPYOvgBiA"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AIgd1f6tXGh7TALqY7uQm",
+            "id": "2AIgd1f6tXGh7TALqY7uQm",
+            "name": "Rappagariya",
+            "type": "artist",
+            "uri": "spotify:artist:2AIgd1f6tXGh7TALqY7uQm"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 265482,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4boBzG65G4yfBnC5qrhXRn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4boBzG65G4yfBnC5qrhXRn",
+        "id": "4boBzG65G4yfBnC5qrhXRn",
+        "is_local": false,
+        "name": "Deep Impact(DJ KRUSH Remix)",
+        "preview_url": "https://p.scdn.co/mp3-preview/9b3cd1ea7defbf1fcd4464098675ba190a8557ee?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4boBzG65G4yfBnC5qrhXRn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 211624,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wZYzdNIBtqwicmtkIq0MT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3wZYzdNIBtqwicmtkIq0MT",
+        "id": "3wZYzdNIBtqwicmtkIq0MT",
+        "is_local": false,
+        "name": "Lily da kid",
+        "preview_url": "https://p.scdn.co/mp3-preview/3658082f179ebaa3fdd09f31ee7f45c598276730?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3wZYzdNIBtqwicmtkIq0MT"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 247604,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ICk3CIDgfinhPZWXZEOwu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ICk3CIDgfinhPZWXZEOwu",
+        "id": "3ICk3CIDgfinhPZWXZEOwu",
+        "is_local": false,
+        "name": "休日",
+        "preview_url": "https://p.scdn.co/mp3-preview/e7f2c1b94fa58dd557a979635a5b5b37a25827ce?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3ICk3CIDgfinhPZWXZEOwu"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:0ZwKyX2I5DDShO7saMZPCF"
+}

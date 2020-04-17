@@ -1,0 +1,482 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+      "id": "3kNqzLmW33fQIfmZ1OfqMA",
+      "name": "Dir En Grey",
+      "type": "artist",
+      "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BE",
+    "BG",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SK",
+    "TR"
+  ],
+  "copyrights": [
+    {
+      "text": "1996 Firewall Div.",
+      "type": "C"
+    },
+    {
+      "text": "1996 Firewall Div.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3615939636915"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4QY0avea57W3vrXUwjAoEu"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4QY0avea57W3vrXUwjAoEu",
+  "id": "4QY0avea57W3vrXUwjAoEu",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273da4613a1f2ea789a95f0d143",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02da4613a1f2ea789a95f0d143",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851da4613a1f2ea789a95f0d143",
+      "width": 64
+    }
+  ],
+  "label": "Okami Records",
+  "name": "Missa",
+  "popularity": 10,
+  "release_date": "1997-07-25",
+  "release_date_precision": "day",
+  "total_tracks": 6,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4QY0avea57W3vrXUwjAoEu/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 308160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3cuUEHKnFb2660rvsqhZ5b"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3cuUEHKnFb2660rvsqhZ5b",
+        "id": "3cuUEHKnFb2660rvsqhZ5b",
+        "is_local": false,
+        "name": "Kiri to Mayu",
+        "preview_url": "https://p.scdn.co/mp3-preview/c23a0e79e162c854d52aabe0146d71cf56bc7568?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3cuUEHKnFb2660rvsqhZ5b"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 212800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4e2gkO46Dj4uv5wNNGIWuZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4e2gkO46Dj4uv5wNNGIWuZ",
+        "id": "4e2gkO46Dj4uv5wNNGIWuZ",
+        "is_local": false,
+        "name": "「S」",
+        "preview_url": "https://p.scdn.co/mp3-preview/8b0d8b577c4474df241f04ec91c72e7f6da9222f?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4e2gkO46Dj4uv5wNNGIWuZ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 390106,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1gOcILqrIIRCmjB0rYvJEa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1gOcILqrIIRCmjB0rYvJEa",
+        "id": "1gOcILqrIIRCmjB0rYvJEa",
+        "is_local": false,
+        "name": "Erode",
+        "preview_url": "https://p.scdn.co/mp3-preview/c493a4671d6d5b125320ab80a86d54ed2d0e96eb?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1gOcILqrIIRCmjB0rYvJEa"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 306266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OQGTCSOm3etNEF6o7qpNY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1OQGTCSOm3etNEF6o7qpNY",
+        "id": "1OQGTCSOm3etNEF6o7qpNY",
+        "is_local": false,
+        "name": "Aoi Tsuki",
+        "preview_url": "https://p.scdn.co/mp3-preview/6298d4aaa4f5e0e139ebe219093cda56baceda1f?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1OQGTCSOm3etNEF6o7qpNY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 327933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0NpUDVgoocyRukfNeRQaAd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0NpUDVgoocyRukfNeRQaAd",
+        "id": "0NpUDVgoocyRukfNeRQaAd",
+        "is_local": false,
+        "name": "Garden",
+        "preview_url": "https://p.scdn.co/mp3-preview/c7aab6d4338b70233d7bca164d7f5a592d3c1608?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0NpUDVgoocyRukfNeRQaAd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 339160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5hwo5cDATqOMQld25VJAzA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5hwo5cDATqOMQld25VJAzA",
+        "id": "5hwo5cDATqOMQld25VJAzA",
+        "is_local": false,
+        "name": "Byou「」Shin",
+        "preview_url": "https://p.scdn.co/mp3-preview/aaa8f685253e04bcd4ff6115e3ae11e28a68249c?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5hwo5cDATqOMQld25VJAzA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 6
+  },
+  "type": "album",
+  "uri": "spotify:album:4QY0avea57W3vrXUwjAoEu"
+}

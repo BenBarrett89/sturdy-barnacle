@@ -1,0 +1,227 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+      "id": "3kNqzLmW33fQIfmZ1OfqMA",
+      "name": "Dir En Grey",
+      "type": "artist",
+      "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "Sun-krad Co., Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "Sun-Krad Co., Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3615934435827"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5iLuFY6lD4WAlhiSzDo7qr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5iLuFY6lD4WAlhiSzDo7qr",
+  "id": "5iLuFY6lD4WAlhiSzDo7qr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ee10259ebd3d83c3106f6f50",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ee10259ebd3d83c3106f6f50",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ee10259ebd3d83c3106f6f50",
+      "width": 64
+    }
+  ],
+  "label": "Okami Records",
+  "name": "The Insulated World (Radio Edit)",
+  "popularity": 20,
+  "release_date": "2018-09-26",
+  "release_date_precision": "day",
+  "total_tracks": 5,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5iLuFY6lD4WAlhiSzDo7qr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 193517,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0XjuKIebjKkshap03sYjfs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0XjuKIebjKkshap03sYjfs",
+        "id": "0XjuKIebjKkshap03sYjfs",
+        "is_local": false,
+        "name": "Ningen Wo Kaburu - Radio Edit",
+        "preview_url": "https://p.scdn.co/mp3-preview/a3fc4397b5f551ccacdb000461a2ed6e811f451d?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0XjuKIebjKkshap03sYjfs"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 167838,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XDyRreKAuUPRVlfyM6Pj8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1XDyRreKAuUPRVlfyM6Pj8",
+        "id": "1XDyRreKAuUPRVlfyM6Pj8",
+        "is_local": false,
+        "name": "Utafumi - Radio Edit",
+        "preview_url": "https://p.scdn.co/mp3-preview/05ff4fa5e80ed6f1b0665fba4460b5e661625f26?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1XDyRreKAuUPRVlfyM6Pj8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 183797,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7MDkrgrWUFtccKvB3QGTPI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7MDkrgrWUFtccKvB3QGTPI",
+        "id": "7MDkrgrWUFtccKvB3QGTPI",
+        "is_local": false,
+        "name": "Values of Madness - Radio Edit",
+        "preview_url": "https://p.scdn.co/mp3-preview/251c85fa9ea5b89725b22860f223653e19a40c3d?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7MDkrgrWUFtccKvB3QGTPI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 217477,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3HmLMHHtw4DhOT7AycVaNp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3HmLMHHtw4DhOT7AycVaNp",
+        "id": "3HmLMHHtw4DhOT7AycVaNp",
+        "is_local": false,
+        "name": "Followers - Radio Edit",
+        "preview_url": "https://p.scdn.co/mp3-preview/0ab408b198c188241af60fadd2ac1a9feba16231?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3HmLMHHtw4DhOT7AycVaNp"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 217076,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/123I4Wo2tKcgXlP7lHMkOI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/123I4Wo2tKcgXlP7lHMkOI",
+        "id": "123I4Wo2tKcgXlP7lHMkOI",
+        "is_local": false,
+        "name": "Ranunculus - Radio Edit",
+        "preview_url": "https://p.scdn.co/mp3-preview/a57f3d16b4c0a2854f32b018adade5d53216b739?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:123I4Wo2tKcgXlP7lHMkOI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 5
+  },
+  "type": "album",
+  "uri": "spotify:album:5iLuFY6lD4WAlhiSzDo7qr"
+}

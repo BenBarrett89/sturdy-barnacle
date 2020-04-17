@@ -1,0 +1,196 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2003 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2003 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002430833"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5jAJfxL2X7RYBoqCDc1hea"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5jAJfxL2X7RYBoqCDc1hea",
+  "id": "5jAJfxL2X7RYBoqCDc1hea",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738d8afa128a897a3c54288f10",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d8afa128a897a3c54288f10",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518d8afa128a897a3c54288f10",
+      "width": 64
+    }
+  ],
+  "label": "MOB SQUAD",
+  "name": "morrow",
+  "popularity": 21,
+  "release_date": "2003-06-25",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5jAJfxL2X7RYBoqCDc1hea/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 266086,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1mi1yjMM2zVHqPppwVzfay"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1mi1yjMM2zVHqPppwVzfay",
+        "id": "1mi1yjMM2zVHqPppwVzfay",
+        "is_local": false,
+        "name": "morrow",
+        "preview_url": "https://p.scdn.co/mp3-preview/cb164713d4076903a46a2b942f49746319f51057?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1mi1yjMM2zVHqPppwVzfay"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 360896,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0JXlUoMmFlBTn7wpaDUg68"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0JXlUoMmFlBTn7wpaDUg68",
+        "id": "0JXlUoMmFlBTn7wpaDUg68",
+        "is_local": false,
+        "name": "Life goes on(FPM Beautiful Lovers mix)",
+        "preview_url": "https://p.scdn.co/mp3-preview/d47e6fe3c0df41f898ebaedbe52683988e0f9a21?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0JXlUoMmFlBTn7wpaDUg68"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 343326,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ukXQIdS5AOqd0U4Eox7Xc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ukXQIdS5AOqd0U4Eox7Xc",
+        "id": "2ukXQIdS5AOqd0U4Eox7Xc",
+        "is_local": false,
+        "name": "Fantasista(Ram Jam World remix)",
+        "preview_url": "https://p.scdn.co/mp3-preview/ebef44ed736232be6c5dadb8dadd707d58267712?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2ukXQIdS5AOqd0U4Eox7Xc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 325132,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0kYg0UaH4Cpcx6LFKo29YI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0kYg0UaH4Cpcx6LFKo29YI",
+        "id": "0kYg0UaH4Cpcx6LFKo29YI",
+        "is_local": false,
+        "name": "morrow(DRY & HEAVY mix)",
+        "preview_url": "https://p.scdn.co/mp3-preview/532f247cd20a51f6648c8c17c76591f41dabe070?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0kYg0UaH4Cpcx6LFKo29YI"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:5jAJfxL2X7RYBoqCDc1hea"
+}

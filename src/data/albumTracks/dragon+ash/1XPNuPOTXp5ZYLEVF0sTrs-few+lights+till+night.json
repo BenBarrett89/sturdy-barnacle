@@ -1,0 +1,165 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2006 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2006 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002512324"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1XPNuPOTXp5ZYLEVF0sTrs"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1XPNuPOTXp5ZYLEVF0sTrs",
+  "id": "1XPNuPOTXp5ZYLEVF0sTrs",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736e957e611f4cdad4a007923f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026e957e611f4cdad4a007923f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516e957e611f4cdad4a007923f",
+      "width": 64
+    }
+  ],
+  "label": "MOB SQUAD",
+  "name": "few lights till night",
+  "popularity": 6,
+  "release_date": "2006-09-27",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1XPNuPOTXp5ZYLEVF0sTrs/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 276474,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SGDRY9FNiaFXE6b74OxQe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3SGDRY9FNiaFXE6b74OxQe",
+        "id": "3SGDRY9FNiaFXE6b74OxQe",
+        "is_local": false,
+        "name": "few lights till night",
+        "preview_url": "https://p.scdn.co/mp3-preview/450e2991a67ded8f76bc36db0062a31f16a333e5?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3SGDRY9FNiaFXE6b74OxQe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 259015,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6vTIHlzPFiIFGxgjXinhu8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6vTIHlzPFiIFGxgjXinhu8",
+        "id": "6vTIHlzPFiIFGxgjXinhu8",
+        "is_local": false,
+        "name": "stir",
+        "preview_url": "https://p.scdn.co/mp3-preview/5905126376e14bf0dec4ad73ca339cf070c9b875?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6vTIHlzPFiIFGxgjXinhu8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 117509,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5K7zAyzm20AmTVg5WUb3wq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5K7zAyzm20AmTVg5WUb3wq",
+        "id": "5K7zAyzm20AmTVg5WUb3wq",
+        "is_local": false,
+        "name": "sleep tight",
+        "preview_url": "https://p.scdn.co/mp3-preview/0cd50ed4cf9409a340c1e3eec947daec3da8c77a?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5K7zAyzm20AmTVg5WUb3wq"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:1XPNuPOTXp5ZYLEVF0sTrs"
+}

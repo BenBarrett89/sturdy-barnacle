@@ -1,0 +1,143 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+      "id": "3kNqzLmW33fQIfmZ1OfqMA",
+      "name": "Dir En Grey",
+      "type": "artist",
+      "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+    }
+  ],
+  "available_markets": [
+    "DK",
+    "FI",
+    "NO",
+    "SE"
+  ],
+  "copyrights": [
+    {
+      "text": "2007 Gan Shin",
+      "type": "C"
+    },
+    {
+      "text": "2007 Gan Shin",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4027792000427"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/41Hlw50vt60TApsorzVqLh"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/41Hlw50vt60TApsorzVqLh",
+  "id": "41Hlw50vt60TApsorzVqLh",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a26f592ba89db60b476a51a8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a26f592ba89db60b476a51a8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a26f592ba89db60b476a51a8",
+      "width": 64
+    }
+  ],
+  "label": "Gan Shin Records",
+  "name": "Dozing Green",
+  "popularity": 0,
+  "release_date": "2007",
+  "release_date_precision": "year",
+  "total_tracks": 2,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/41Hlw50vt60TApsorzVqLh/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 245600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ElwUIkSjppUNIicePwrC2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ElwUIkSjppUNIicePwrC2",
+        "id": "0ElwUIkSjppUNIicePwrC2",
+        "is_local": false,
+        "name": "Dozing Green",
+        "preview_url": "https://p.scdn.co/mp3-preview/b573ce2e0b84c1b93f5089862c4c1663ed870cd3?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0ElwUIkSjppUNIicePwrC2"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "DK",
+          "FI",
+          "NO",
+          "SE"
+        ],
+        "disc_number": 1,
+        "duration_ms": 273466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7CtmTN0atk502GozcORUz4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7CtmTN0atk502GozcORUz4",
+        "id": "7CtmTN0atk502GozcORUz4",
+        "is_local": false,
+        "name": "Agitated Screams Of Maggots (Live)",
+        "preview_url": "https://p.scdn.co/mp3-preview/a869fcf6f71af7ec358db03bd41e8d61d2834b5f?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7CtmTN0atk502GozcORUz4"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2
+  },
+  "type": "album",
+  "uri": "spotify:album:41Hlw50vt60TApsorzVqLh"
+}

@@ -1,0 +1,285 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+      "id": "3kNqzLmW33fQIfmZ1OfqMA",
+      "name": "Dir En Grey",
+      "type": "artist",
+      "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BE",
+    "BG",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "SE",
+    "SK"
+  ],
+  "copyrights": [
+    {
+      "text": "Okami Records",
+      "type": "C"
+    },
+    {
+      "text": "Okami Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3661585936886"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1BYy7ltDGDpXt43cxxMDfn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1BYy7ltDGDpXt43cxxMDfn",
+  "id": "1BYy7ltDGDpXt43cxxMDfn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730123bad7e4b7c1353b16f700",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020123bad7e4b7c1353b16f700",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510123bad7e4b7c1353b16f700",
+      "width": 64
+    }
+  ],
+  "label": "Okami Records",
+  "name": "Different sense",
+  "popularity": 3,
+  "release_date": "2011-06-22",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1BYy7ltDGDpXt43cxxMDfn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "SE",
+          "SK"
+        ],
+        "disc_number": 1,
+        "duration_ms": 304906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5UpMY3mpamORJxsvcjRPgU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5UpMY3mpamORJxsvcjRPgU",
+        "id": "5UpMY3mpamORJxsvcjRPgU",
+        "is_local": false,
+        "name": "Different sense",
+        "preview_url": "https://p.scdn.co/mp3-preview/917248172ff42353e4ec45fcdbcb3d0f2f8d0162?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5UpMY3mpamORJxsvcjRPgU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "SE",
+          "SK"
+        ],
+        "disc_number": 1,
+        "duration_ms": 304360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1fAzIdIdh6cG5EMGvyMqg8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1fAzIdIdh6cG5EMGvyMqg8",
+        "id": "1fAzIdIdh6cG5EMGvyMqg8",
+        "is_local": false,
+        "name": "Tsumi to kisei",
+        "preview_url": "https://p.scdn.co/mp3-preview/659aab87fac8ce80843bbb9256557660d2f614b2?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1fAzIdIdh6cG5EMGvyMqg8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "SE",
+          "SK"
+        ],
+        "disc_number": 1,
+        "duration_ms": 212386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2IxOgW4Cyrp6l3GRwxFpy2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2IxOgW4Cyrp6l3GRwxFpy2",
+        "id": "2IxOgW4Cyrp6l3GRwxFpy2",
+        "is_local": false,
+        "name": "Red Soil - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/37bc9180d13d92a2fc0618557a9658dea25c9c29?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2IxOgW4Cyrp6l3GRwxFpy2"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:1BYy7ltDGDpXt43cxxMDfn"
+}

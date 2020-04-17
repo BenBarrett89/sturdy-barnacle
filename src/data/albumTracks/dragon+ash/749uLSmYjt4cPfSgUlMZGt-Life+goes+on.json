@@ -1,0 +1,165 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2002 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2002 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002425426"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/749uLSmYjt4cPfSgUlMZGt"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/749uLSmYjt4cPfSgUlMZGt",
+  "id": "749uLSmYjt4cPfSgUlMZGt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273438fe4b479ec81bb2211ada8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02438fe4b479ec81bb2211ada8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851438fe4b479ec81bb2211ada8",
+      "width": 64
+    }
+  ],
+  "label": "HAPPYHOUSE",
+  "name": "Life goes on",
+  "popularity": 32,
+  "release_date": "2002-01-23",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/749uLSmYjt4cPfSgUlMZGt/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 337591,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1C6mGgM8tx4tf7Lofcy92S"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1C6mGgM8tx4tf7Lofcy92S",
+        "id": "1C6mGgM8tx4tf7Lofcy92S",
+        "is_local": false,
+        "name": "Life goes on",
+        "preview_url": "https://p.scdn.co/mp3-preview/2af5b51248d7065e9e2848e95de0da54efe4721d?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1C6mGgM8tx4tf7Lofcy92S"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 250481,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6IEiaWQENShDpFMeBKa4XF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6IEiaWQENShDpFMeBKa4XF",
+        "id": "6IEiaWQENShDpFMeBKa4XF",
+        "is_local": false,
+        "name": "Snowscape",
+        "preview_url": "https://p.scdn.co/mp3-preview/f698779e9ba6c18bced5547dfffcd3c03da6cc1c?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6IEiaWQENShDpFMeBKa4XF"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 291343,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WvWDDAZwPDQHkOmns9x9r"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0WvWDDAZwPDQHkOmns9x9r",
+        "id": "0WvWDDAZwPDQHkOmns9x9r",
+        "is_local": false,
+        "name": "Be with you",
+        "preview_url": "https://p.scdn.co/mp3-preview/20d4f2d4e2fd5b9c9caf1149f83943a92099c396?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0WvWDDAZwPDQHkOmns9x9r"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:749uLSmYjt4cPfSgUlMZGt"
+}

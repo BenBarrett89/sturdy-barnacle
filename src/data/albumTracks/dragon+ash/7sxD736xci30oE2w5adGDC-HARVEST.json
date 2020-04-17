@@ -1,0 +1,679 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2003 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2003 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002434220"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7sxD736xci30oE2w5adGDC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/7sxD736xci30oE2w5adGDC",
+  "id": "7sxD736xci30oE2w5adGDC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736e4675bea4dd87ed4653f148",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026e4675bea4dd87ed4653f148",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516e4675bea4dd87ed4653f148",
+      "width": 64
+    }
+  ],
+  "label": "MOB SQUAD",
+  "name": "HARVEST",
+  "popularity": 34,
+  "release_date": "2003-07-23",
+  "release_date_precision": "day",
+  "total_tracks": 17,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7sxD736xci30oE2w5adGDC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 60200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6AshVrt2JzTjxtihykj8tY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6AshVrt2JzTjxtihykj8tY",
+        "id": "6AshVrt2JzTjxtihykj8tY",
+        "is_local": false,
+        "name": "Intro~HARVEST~",
+        "preview_url": "https://p.scdn.co/mp3-preview/949325e9044fd92ce2676dc8ba3711a9f0b08fa4?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6AshVrt2JzTjxtihykj8tY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 271933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZwrhGh6ThrCXsNoXdiizf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ZwrhGh6ThrCXsNoXdiizf",
+        "id": "4ZwrhGh6ThrCXsNoXdiizf",
+        "is_local": false,
+        "name": "House of Velocity",
+        "preview_url": "https://p.scdn.co/mp3-preview/f872a6724a559d7abdffa3b9fba67afaade68ff0?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4ZwrhGh6ThrCXsNoXdiizf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 240700,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6YjOCNuKF5Syv0gcQBer9W"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6YjOCNuKF5Syv0gcQBer9W",
+        "id": "6YjOCNuKF5Syv0gcQBer9W",
+        "is_local": false,
+        "name": "Posse in Noise",
+        "preview_url": "https://p.scdn.co/mp3-preview/b58ba98c5a35843277e119b3263e3eb3a4821564?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6YjOCNuKF5Syv0gcQBer9W"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 274033,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/64u72oJLjjctxyhWo79PBI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/64u72oJLjjctxyhWo79PBI",
+        "id": "64u72oJLjjctxyhWo79PBI",
+        "is_local": false,
+        "name": "Revive",
+        "preview_url": "https://p.scdn.co/mp3-preview/5ad424692f24e326390c157ae95e2c87d8868564?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:64u72oJLjjctxyhWo79PBI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SmdagVxntNRIl3f1pZbrn"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SmdagVxntNRIl3f1pZbrn",
+            "id": "1SmdagVxntNRIl3f1pZbrn",
+            "name": "43K",
+            "type": "artist",
+            "uri": "spotify:artist:1SmdagVxntNRIl3f1pZbrn"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0l9k1n2qowM4gSMhT6LQ1w"
+            },
+            "href": "https://api.spotify.com/v1/artists/0l9k1n2qowM4gSMhT6LQ1w",
+            "id": "0l9k1n2qowM4gSMhT6LQ1w",
+            "name": "EIG",
+            "type": "artist",
+            "uri": "spotify:artist:0l9k1n2qowM4gSMhT6LQ1w"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 257200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bWrI882JuUl7YJ9UKpQii"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0bWrI882JuUl7YJ9UKpQii",
+        "id": "0bWrI882JuUl7YJ9UKpQii",
+        "is_local": false,
+        "name": "United Rhythm",
+        "preview_url": "https://p.scdn.co/mp3-preview/7865970fb681898b4514a462868d83ad9106df19?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0bWrI882JuUl7YJ9UKpQii"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 74100,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NUDFXbCT1z5WocF4UDE2b"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1NUDFXbCT1z5WocF4UDE2b",
+        "id": "1NUDFXbCT1z5WocF4UDE2b",
+        "is_local": false,
+        "name": "Byakuya",
+        "preview_url": "https://p.scdn.co/mp3-preview/e12bcd1a61b3a343d969072dae5d893d2d56b6a9?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1NUDFXbCT1z5WocF4UDE2b"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 265400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Uhk2kyiGHm0h83WHeY1Tn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Uhk2kyiGHm0h83WHeY1Tn",
+        "id": "1Uhk2kyiGHm0h83WHeY1Tn",
+        "is_local": false,
+        "name": "morrow(Al Ver.)",
+        "preview_url": "https://p.scdn.co/mp3-preview/f8b8fbba5be3224ea2e883b2a961ca31c3715c9f?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1Uhk2kyiGHm0h83WHeY1Tn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 154233,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2WWUqD29dGEfCEwtBDWnh2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2WWUqD29dGEfCEwtBDWnh2",
+        "id": "2WWUqD29dGEfCEwtBDWnh2",
+        "is_local": false,
+        "name": "Landscape",
+        "preview_url": "https://p.scdn.co/mp3-preview/1019747cd788faf7abc5d7e4d60ae1892959d191?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2WWUqD29dGEfCEwtBDWnh2"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 56633,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6GSohcHO2xO85W0giYf5Kr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6GSohcHO2xO85W0giYf5Kr",
+        "id": "6GSohcHO2xO85W0giYf5Kr",
+        "is_local": false,
+        "name": "Art of Delta",
+        "preview_url": "https://p.scdn.co/mp3-preview/f2cd2fd7ec76eed39e04c2e5eda849f9545d6be7?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6GSohcHO2xO85W0giYf5Kr"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1InVrkqCtH9gTS29yL8M1c"
+            },
+            "href": "https://api.spotify.com/v1/artists/1InVrkqCtH9gTS29yL8M1c",
+            "id": "1InVrkqCtH9gTS29yL8M1c",
+            "name": "PASSER",
+            "type": "artist",
+            "uri": "spotify:artist:1InVrkqCtH9gTS29yL8M1c"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3OYVkGGP8f9MJ71s9JMaV4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3OYVkGGP8f9MJ71s9JMaV4",
+            "id": "3OYVkGGP8f9MJ71s9JMaV4",
+            "name": "HUNTER",
+            "type": "artist",
+            "uri": "spotify:artist:3OYVkGGP8f9MJ71s9JMaV4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6bVofiXSG0vKcgzpyU0x5z"
+            },
+            "href": "https://api.spotify.com/v1/artists/6bVofiXSG0vKcgzpyU0x5z",
+            "id": "6bVofiXSG0vKcgzpyU0x5z",
+            "name": "黒兄",
+            "type": "artist",
+            "uri": "spotify:artist:6bVofiXSG0vKcgzpyU0x5z"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5eZqUPmwuUE6OEZ0h2sZTJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5eZqUPmwuUE6OEZ0h2sZTJ",
+            "id": "5eZqUPmwuUE6OEZ0h2sZTJ",
+            "name": "ONO-G",
+            "type": "artist",
+            "uri": "spotify:artist:5eZqUPmwuUE6OEZ0h2sZTJ"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 252966,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1dP7XXCJoEZQT1JPM6gKpY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1dP7XXCJoEZQT1JPM6gKpY",
+        "id": "1dP7XXCJoEZQT1JPM6gKpY",
+        "is_local": false,
+        "name": "Mob Squad(RITMO ACELERADO RMX) feat.PASSER,HUNTER,黒兄,ONO-G",
+        "preview_url": "https://p.scdn.co/mp3-preview/b701de9168c3b1765b67c1556c0650a48799840c?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1dP7XXCJoEZQT1JPM6gKpY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ABqgb5JlYqaJTFAAXT5Zh"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ABqgb5JlYqaJTFAAXT5Zh",
+            "id": "6ABqgb5JlYqaJTFAAXT5Zh",
+            "name": "Shun",
+            "type": "artist",
+            "uri": "spotify:artist:6ABqgb5JlYqaJTFAAXT5Zh"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CqK1XxJ0k4YDdnEfZ3exm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5CqK1XxJ0k4YDdnEfZ3exm",
+            "id": "5CqK1XxJ0k4YDdnEfZ3exm",
+            "name": "SHIGEO",
+            "type": "artist",
+            "uri": "spotify:artist:5CqK1XxJ0k4YDdnEfZ3exm"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 298400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41SyG7bOG3rdSyfavA1b2V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/41SyG7bOG3rdSyfavA1b2V",
+        "id": "41SyG7bOG3rdSyfavA1b2V",
+        "is_local": false,
+        "name": "Episode 4",
+        "preview_url": "https://p.scdn.co/mp3-preview/e4f57630647301e92d2564af9d9d4584ebebae9f?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:41SyG7bOG3rdSyfavA1b2V"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 265333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7JaubtOkD5G1gv159Rq244"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7JaubtOkD5G1gv159Rq244",
+        "id": "7JaubtOkD5G1gv159Rq244",
+        "is_local": false,
+        "name": "Massy Evolution",
+        "preview_url": "https://p.scdn.co/mp3-preview/7f18b51ef9ed52f014585ecaf2eb8bb2428e4f5f?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:7JaubtOkD5G1gv159Rq244"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 27033,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4U0lpjvHDXRx7ourMtVfYh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4U0lpjvHDXRx7ourMtVfYh",
+        "id": "4U0lpjvHDXRx7ourMtVfYh",
+        "is_local": false,
+        "name": "Day 6",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:4U0lpjvHDXRx7ourMtVfYh"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 269233,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4tgopoM0u55i648JL6r0Qh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4tgopoM0u55i648JL6r0Qh",
+        "id": "4tgopoM0u55i648JL6r0Qh",
+        "is_local": false,
+        "name": "Fantasista",
+        "preview_url": "https://p.scdn.co/mp3-preview/72eea545dbed072a7bb789ca69820d309317c7ae?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:4tgopoM0u55i648JL6r0Qh"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 272466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7burRowgi2w6pOUkWs6Gsw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7burRowgi2w6pOUkWs6Gsw",
+        "id": "7burRowgi2w6pOUkWs6Gsw",
+        "is_local": false,
+        "name": "Canvas",
+        "preview_url": "https://p.scdn.co/mp3-preview/62bbd0998b14d843cccb44fa73b27617f715b404?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:7burRowgi2w6pOUkWs6Gsw"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 166200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54TC3MTB8atiQwo4HNRphD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/54TC3MTB8atiQwo4HNRphD",
+        "id": "54TC3MTB8atiQwo4HNRphD",
+        "is_local": false,
+        "name": "Gymnopedie #1",
+        "preview_url": "https://p.scdn.co/mp3-preview/c0c1ef15cc4dca6bf7b58c117e79e20c5024eec5?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:54TC3MTB8atiQwo4HNRphD"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 265160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5KRKXtj4ksINSnf18l1fFi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5KRKXtj4ksINSnf18l1fFi",
+        "id": "5KRKXtj4ksINSnf18l1fFi",
+        "is_local": false,
+        "name": "Harvest",
+        "preview_url": "https://p.scdn.co/mp3-preview/f0cf6a614184280cde7b5ff8f4d8f0a9606ed347?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:5KRKXtj4ksINSnf18l1fFi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 17
+  },
+  "type": "album",
+  "uri": "spotify:album:7sxD736xci30oE2w5adGDC"
+}

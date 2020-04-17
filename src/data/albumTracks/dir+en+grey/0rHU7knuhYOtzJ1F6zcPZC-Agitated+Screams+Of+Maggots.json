@@ -1,0 +1,336 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+      "id": "3kNqzLmW33fQIfmZ1OfqMA",
+      "name": "Dir En Grey",
+      "type": "artist",
+      "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+    }
+  ],
+  "available_markets": [
+    "AT",
+    "BE",
+    "BG",
+    "CH",
+    "CY",
+    "CZ",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SK",
+    "TR"
+  ],
+  "copyrights": [
+    {
+      "text": "© 2006 Free Will Europe",
+      "type": "C"
+    },
+    {
+      "text": "℗ 2006 Free Will Europe",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "04027792000243"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0rHU7knuhYOtzJ1F6zcPZC"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0rHU7knuhYOtzJ1F6zcPZC",
+  "id": "0rHU7knuhYOtzJ1F6zcPZC",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735286f2fde5b9afc6e64c6f36",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025286f2fde5b9afc6e64c6f36",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515286f2fde5b9afc6e64c6f36",
+      "width": 64
+    }
+  ],
+  "label": "Universal Music Operations Ltd.",
+  "name": "Agitated Screams Of Maggots",
+  "popularity": 1,
+  "release_date": "2006-01-01",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0rHU7knuhYOtzJ1F6zcPZC/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 174760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1vkjUX3BEuA5NjSMpLQMFs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1vkjUX3BEuA5NjSMpLQMFs",
+        "id": "1vkjUX3BEuA5NjSMpLQMFs",
+        "is_local": false,
+        "name": "Agitated Screams Of Maggots",
+        "preview_url": "https://p.scdn.co/mp3-preview/ce5698351d214e1669d92bb92e02987a4349709a?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1vkjUX3BEuA5NjSMpLQMFs"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 230333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1azOFpgJ5nA8K01bR5BQwF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1azOFpgJ5nA8K01bR5BQwF",
+        "id": "1azOFpgJ5nA8K01bR5BQwF",
+        "is_local": false,
+        "name": "Kodoku Ni Shisu, Yueni Kodoku - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/acd52b0b252ee8f6c78aa72608e39a02e25067a6?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1azOFpgJ5nA8K01bR5BQwF"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 235586,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/52tOOvFu6iNINxjJc9saA5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/52tOOvFu6iNINxjJc9saA5",
+        "id": "52tOOvFu6iNINxjJc9saA5",
+        "is_local": false,
+        "name": "Spilled Milk - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/057bb1675ba014f27d438dad4347b19c86e49e62?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:52tOOvFu6iNINxjJc9saA5"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 235080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2YEozwfWTFuxKizSLWoNM3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2YEozwfWTFuxKizSLWoNM3",
+        "id": "2YEozwfWTFuxKizSLWoNM3",
+        "is_local": false,
+        "name": "Obscure - Live",
+        "preview_url": "https://p.scdn.co/mp3-preview/0d89c61e8322daf84e97918cf47787d44278ae8c?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2YEozwfWTFuxKizSLWoNM3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:0rHU7knuhYOtzJ1F6zcPZC"
+}

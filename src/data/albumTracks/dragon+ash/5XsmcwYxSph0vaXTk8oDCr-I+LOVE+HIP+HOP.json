@@ -1,0 +1,165 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "1999 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "1999 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002384655"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5XsmcwYxSph0vaXTk8oDCr"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5XsmcwYxSph0vaXTk8oDCr",
+  "id": "5XsmcwYxSph0vaXTk8oDCr",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f36321cff511b4bf82c2df8f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f36321cff511b4bf82c2df8f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f36321cff511b4bf82c2df8f",
+      "width": 64
+    }
+  ],
+  "label": "HAPPYHOUSE",
+  "name": "I LOVE HIP HOP",
+  "popularity": 27,
+  "release_date": "1999-05-01",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5XsmcwYxSph0vaXTk8oDCr/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 257677,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5a7sBlY20tK7HEl7xeGORJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5a7sBlY20tK7HEl7xeGORJ",
+        "id": "5a7sBlY20tK7HEl7xeGORJ",
+        "is_local": false,
+        "name": "I LOVE HIP HOP",
+        "preview_url": "https://p.scdn.co/mp3-preview/dca29621bb80be249f6af3e7e23d2a7c4ceb5e3e?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5a7sBlY20tK7HEl7xeGORJ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 246974,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6v0mHCVMKqZXnhXj0l2xuI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6v0mHCVMKqZXnhXj0l2xuI",
+        "id": "6v0mHCVMKqZXnhXj0l2xuI",
+        "is_local": false,
+        "name": "Freedom of Expression",
+        "preview_url": "https://p.scdn.co/mp3-preview/b9ae51a2797bb57435cec41e38774b902275e1a0?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6v0mHCVMKqZXnhXj0l2xuI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 120791,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0o14sQH3brLRhA3PkWyutX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0o14sQH3brLRhA3PkWyutX",
+        "id": "0o14sQH3brLRhA3PkWyutX",
+        "is_local": false,
+        "name": "The theme of Motor Headphone",
+        "preview_url": "https://p.scdn.co/mp3-preview/6634c7c13c895106c4f402eb4b2bb1966fbfe093?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0o14sQH3brLRhA3PkWyutX"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:5XsmcwYxSph0vaXTk8oDCr"
+}

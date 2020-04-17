@@ -1,0 +1,1063 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+      "id": "3kNqzLmW33fQIfmZ1OfqMA",
+      "name": "Dir En Grey",
+      "type": "artist",
+      "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BE",
+    "BG",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SK",
+    "TR"
+  ],
+  "copyrights": [
+    {
+      "text": "2001 Firewall Div.",
+      "type": "C"
+    },
+    {
+      "text": "2001 Firewall Div.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3615939558378"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4SE5hmruxhBuohECkyqdeV"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4SE5hmruxhBuohECkyqdeV",
+  "id": "4SE5hmruxhBuohECkyqdeV",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27387689cba0c324a981c37afa8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0287689cba0c324a981c37afa8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485187689cba0c324a981c37afa8",
+      "width": 64
+    }
+  ],
+  "label": "Okami Records",
+  "name": "-Kai-",
+  "popularity": 5,
+  "release_date": "2001-08-22",
+  "release_date_precision": "day",
+  "total_tracks": 13,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4SE5hmruxhBuohECkyqdeV/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/33thSkwTO10Q5lZmpk7WJP"
+            },
+            "href": "https://api.spotify.com/v1/artists/33thSkwTO10Q5lZmpk7WJP",
+            "id": "33thSkwTO10Q5lZmpk7WJP",
+            "name": "Munenori Takada",
+            "type": "artist",
+            "uri": "spotify:artist:33thSkwTO10Q5lZmpk7WJP"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06bneSpl9KEL0UrZlDUCi0"
+            },
+            "href": "https://api.spotify.com/v1/artists/06bneSpl9KEL0UrZlDUCi0",
+            "id": "06bneSpl9KEL0UrZlDUCi0",
+            "name": "Ayumi Yasui",
+            "type": "artist",
+            "uri": "spotify:artist:06bneSpl9KEL0UrZlDUCi0"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 368493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6M122cQwMRwOUiNEi1FQu4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6M122cQwMRwOUiNEi1FQu4",
+        "id": "6M122cQwMRwOUiNEi1FQu4",
+        "is_local": false,
+        "name": "Hydra - Buzzout Mix",
+        "preview_url": "https://p.scdn.co/mp3-preview/d35a46763d5781c0cd2b5e5004704032ea918210?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6M122cQwMRwOUiNEi1FQu4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BF0kl8FUFBN4NrOD2NIN7"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BF0kl8FUFBN4NrOD2NIN7",
+            "id": "5BF0kl8FUFBN4NrOD2NIN7",
+            "name": "Bananaice",
+            "type": "artist",
+            "uri": "spotify:artist:5BF0kl8FUFBN4NrOD2NIN7"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 383200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4YS5ycbG5vHjtvGOlFQuRZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4YS5ycbG5vHjtvGOlFQuRZ",
+        "id": "4YS5ycbG5vHjtvGOlFQuRZ",
+        "is_local": false,
+        "name": "Rasetsukoku - Za Downtown Funkmaster Remix",
+        "preview_url": "https://p.scdn.co/mp3-preview/b4aba2b1bce7bc56b4b88d8a9605821ab64931ee?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4YS5ycbG5vHjtvGOlFQuRZ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4New4nl2Zh1mTJefYuswMj"
+            },
+            "href": "https://api.spotify.com/v1/artists/4New4nl2Zh1mTJefYuswMj",
+            "id": "4New4nl2Zh1mTJefYuswMj",
+            "name": "Toshiya",
+            "type": "artist",
+            "uri": "spotify:artist:4New4nl2Zh1mTJefYuswMj"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 261440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hsC2vGrKf1OrNwhyM9w76"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4hsC2vGrKf1OrNwhyM9w76",
+        "id": "4hsC2vGrKf1OrNwhyM9w76",
+        "is_local": false,
+        "name": "Taiyou No Ao - Mix®-",
+        "preview_url": "https://p.scdn.co/mp3-preview/6d38aa44ef97eadd5c9fa764a21d42945e189772?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4hsC2vGrKf1OrNwhyM9w76"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/38bauqxWE63kQEc6MDy14w"
+            },
+            "href": "https://api.spotify.com/v1/artists/38bauqxWE63kQEc6MDy14w",
+            "id": "38bauqxWE63kQEc6MDy14w",
+            "name": "DJ Chan-K",
+            "type": "artist",
+            "uri": "spotify:artist:38bauqxWE63kQEc6MDy14w"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 414533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Pz7McSGdom4PX6UHTnvMS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Pz7McSGdom4PX6UHTnvMS",
+        "id": "1Pz7McSGdom4PX6UHTnvMS",
+        "is_local": false,
+        "name": "304 Goushitsu Hakushi No Sakura - Sub Dub Mix",
+        "preview_url": "https://p.scdn.co/mp3-preview/285aaf12f07fde758e51cd0e3ff24507b61ddb8d?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1Pz7McSGdom4PX6UHTnvMS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55nlfcisD6GkL6Z9uo7Me2"
+            },
+            "href": "https://api.spotify.com/v1/artists/55nlfcisD6GkL6Z9uo7Me2",
+            "id": "55nlfcisD6GkL6Z9uo7Me2",
+            "name": "Die",
+            "type": "artist",
+            "uri": "spotify:artist:55nlfcisD6GkL6Z9uo7Me2"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 347493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4UeYRal6CNWBjvsUxcnLKI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4UeYRal6CNWBjvsUxcnLKI",
+        "id": "4UeYRal6CNWBjvsUxcnLKI",
+        "is_local": false,
+        "name": "ain’t afraid to die - ~with frosted ambience~",
+        "preview_url": "https://p.scdn.co/mp3-preview/a84deb6553d3c5d0be674946e7c441e9d534d2b7?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4UeYRal6CNWBjvsUxcnLKI"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 397040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08qWCw0AaVKfyTlZvIz7Bx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/08qWCw0AaVKfyTlZvIz7Bx",
+        "id": "08qWCw0AaVKfyTlZvIz7Bx",
+        "is_local": false,
+        "name": "Egnirys Cimredopyh +)An Injection - PCM re-constructed attack remix",
+        "preview_url": "https://p.scdn.co/mp3-preview/de04a44b14725f909845e75fe7f680234c838dfa?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:08qWCw0AaVKfyTlZvIz7Bx"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/33thSkwTO10Q5lZmpk7WJP"
+            },
+            "href": "https://api.spotify.com/v1/artists/33thSkwTO10Q5lZmpk7WJP",
+            "id": "33thSkwTO10Q5lZmpk7WJP",
+            "name": "Munenori Takada",
+            "type": "artist",
+            "uri": "spotify:artist:33thSkwTO10Q5lZmpk7WJP"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yn5DC4f800HwvzXPWpX6D"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yn5DC4f800HwvzXPWpX6D",
+            "id": "1yn5DC4f800HwvzXPWpX6D",
+            "name": "Shuichi Ikebuchi",
+            "type": "artist",
+            "uri": "spotify:artist:1yn5DC4f800HwvzXPWpX6D"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 385333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2C1WXnkpDG5jLjNeKxXI6a"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2C1WXnkpDG5jLjNeKxXI6a",
+        "id": "2C1WXnkpDG5jLjNeKxXI6a",
+        "is_local": false,
+        "name": "MACABRE - Tears of Scorpion Mix",
+        "preview_url": "https://p.scdn.co/mp3-preview/0d27b53a7ce418f05a64ce4cde826f6fcbd155cc?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:2C1WXnkpDG5jLjNeKxXI6a"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NK9DT7GXcCBEXGi3nMRAd"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NK9DT7GXcCBEXGi3nMRAd",
+            "id": "0NK9DT7GXcCBEXGi3nMRAd",
+            "name": "Kaoru",
+            "type": "artist",
+            "uri": "spotify:artist:0NK9DT7GXcCBEXGi3nMRAd"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 264066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XiXJg150ZBPkXTNVuBjO6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2XiXJg150ZBPkXTNVuBjO6",
+        "id": "2XiXJg150ZBPkXTNVuBjO6",
+        "is_local": false,
+        "name": "Myaku - [8 1 / 2Convert]",
+        "preview_url": "https://p.scdn.co/mp3-preview/95a2d8e42c083faf8bd6f795e136f3e87ab743e1?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2XiXJg150ZBPkXTNVuBjO6"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ND5NWoKzlelYDDyWqSQpQ",
+            "id": "3ND5NWoKzlelYDDyWqSQpQ",
+            "name": "Susumu Yokota",
+            "type": "artist",
+            "uri": "spotify:artist:3ND5NWoKzlelYDDyWqSQpQ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 215226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VEXnZGunN79MCAr0CIpQP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5VEXnZGunN79MCAr0CIpQP",
+        "id": "5VEXnZGunN79MCAr0CIpQP",
+        "is_local": false,
+        "name": "Wake - Susumu Yokota Remix",
+        "preview_url": "https://p.scdn.co/mp3-preview/ed8f80341a6a366fc2ab219cd554072d5d5a3504?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5VEXnZGunN79MCAr0CIpQP"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ZSwNekZm03W6hhdcPf9qt"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ZSwNekZm03W6hhdcPf9qt",
+            "id": "6ZSwNekZm03W6hhdcPf9qt",
+            "name": "Shinya",
+            "type": "artist",
+            "uri": "spotify:artist:6ZSwNekZm03W6hhdcPf9qt"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 374640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5C3U2udHtt2FXASmcCVwKM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5C3U2udHtt2FXASmcCVwKM",
+        "id": "5C3U2udHtt2FXASmcCVwKM",
+        "is_local": false,
+        "name": "ain’t afraid to die - Irresistible Mix",
+        "preview_url": "https://p.scdn.co/mp3-preview/44466ad13b7638894b8079d20156985c21b9dd8f?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5C3U2udHtt2FXASmcCVwKM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/38bauqxWE63kQEc6MDy14w"
+            },
+            "href": "https://api.spotify.com/v1/artists/38bauqxWE63kQEc6MDy14w",
+            "id": "38bauqxWE63kQEc6MDy14w",
+            "name": "DJ Chan-K",
+            "type": "artist",
+            "uri": "spotify:artist:38bauqxWE63kQEc6MDy14w"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 346466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rTs3StxOOI0E4XXr3dgIy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3rTs3StxOOI0E4XXr3dgIy",
+        "id": "3rTs3StxOOI0E4XXr3dgIy",
+        "is_local": false,
+        "name": "raison detre - Nanago Mix",
+        "preview_url": "https://p.scdn.co/mp3-preview/1fd26c399bdd66db3e2cc1b5e61473b23359bfe3?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3rTs3StxOOI0E4XXr3dgIy"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0EE8FS5TZdVIDduDtofA3o"
+            },
+            "href": "https://api.spotify.com/v1/artists/0EE8FS5TZdVIDduDtofA3o",
+            "id": "0EE8FS5TZdVIDduDtofA3o",
+            "name": "Kyo",
+            "type": "artist",
+            "uri": "spotify:artist:0EE8FS5TZdVIDduDtofA3o"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 150066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6HOgjlr2h5UcTAYdKesifT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6HOgjlr2h5UcTAYdKesifT",
+        "id": "6HOgjlr2h5UcTAYdKesifT",
+        "is_local": false,
+        "name": "【KR】cube - −K.K. Vomit Mix−",
+        "preview_url": "https://p.scdn.co/mp3-preview/4f374081b0b560d99ad10d756162c9c1cb9da3a7?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6HOgjlr2h5UcTAYdKesifT"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wzztVDBwLpvJK9w5SAEQH"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wzztVDBwLpvJK9w5SAEQH",
+            "id": "2wzztVDBwLpvJK9w5SAEQH",
+            "name": "Issay",
+            "type": "artist",
+            "uri": "spotify:artist:2wzztVDBwLpvJK9w5SAEQH"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 371200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5LdRhCgYZY8m9O2fzD3EKz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5LdRhCgYZY8m9O2fzD3EKz",
+        "id": "5LdRhCgYZY8m9O2fzD3EKz",
+        "is_local": false,
+        "name": "Hotarubi - THE NAME OF THE ROSE MIX",
+        "preview_url": "https://p.scdn.co/mp3-preview/d8c7110024ff85e7680066ec463358fc1294a910?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:5LdRhCgYZY8m9O2fzD3EKz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13
+  },
+  "type": "album",
+  "uri": "spotify:album:4SE5hmruxhBuohECkyqdeV"
+}

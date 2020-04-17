@@ -1,0 +1,345 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+      "id": "3kNqzLmW33fQIfmZ1OfqMA",
+      "name": "Dir En Grey",
+      "type": "artist",
+      "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AR",
+    "AU",
+    "BH",
+    "BO",
+    "BR",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "DO",
+    "DZ",
+    "EC",
+    "EG",
+    "GT",
+    "HK",
+    "HN",
+    "ID",
+    "IL",
+    "IN",
+    "JO",
+    "KW",
+    "LB",
+    "MA",
+    "MX",
+    "MY",
+    "NI",
+    "NZ",
+    "OM",
+    "PA",
+    "PE",
+    "PH",
+    "PS",
+    "PY",
+    "QA",
+    "SA",
+    "SG",
+    "SV",
+    "TH",
+    "TN",
+    "TR",
+    "TW",
+    "US",
+    "UY",
+    "VN",
+    "ZA"
+  ],
+  "copyrights": [
+    {
+      "text": "2019 FIREWALL DIV.",
+      "type": "C"
+    },
+    {
+      "text": "2019 FIREWALL DIV.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4529123106629"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5uaOMPxQKDt5PiVgGfNEAL"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5uaOMPxQKDt5PiVgGfNEAL",
+  "id": "5uaOMPxQKDt5PiVgGfNEAL",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273037ee3b3093327c7515c4062",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02037ee3b3093327c7515c4062",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851037ee3b3093327c7515c4062",
+      "width": 64
+    }
+  ],
+  "label": "FIREWALL DIV.",
+  "name": "The World of Mercy",
+  "popularity": 21,
+  "release_date": "2019-09-18",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5uaOMPxQKDt5PiVgGfNEAL/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "AR",
+          "AU",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "DZ",
+          "EC",
+          "EG",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IL",
+          "IN",
+          "JO",
+          "KW",
+          "LB",
+          "MA",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PS",
+          "PY",
+          "QA",
+          "SA",
+          "SG",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 622280,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2jx8GqDX4nUzBdCxpH14pr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2jx8GqDX4nUzBdCxpH14pr",
+        "id": "2jx8GqDX4nUzBdCxpH14pr",
+        "is_local": false,
+        "name": "The World of Mercy",
+        "preview_url": "https://p.scdn.co/mp3-preview/66ab3c9c14deea33778b85fb1dd6edad86bda117?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2jx8GqDX4nUzBdCxpH14pr"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "AR",
+          "AU",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "DZ",
+          "EC",
+          "EG",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IL",
+          "IN",
+          "JO",
+          "KW",
+          "LB",
+          "MA",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PS",
+          "PY",
+          "QA",
+          "SA",
+          "SG",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 187746,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5XoM1Azlca4Yw2Qxfbqd3U"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5XoM1Azlca4Yw2Qxfbqd3U",
+        "id": "5XoM1Azlca4Yw2Qxfbqd3U",
+        "is_local": false,
+        "name": "DOZING GREEN - Acoustic Ver.",
+        "preview_url": "https://p.scdn.co/mp3-preview/070b2152c9908da77574f7fe4771acd792535414?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5XoM1Azlca4Yw2Qxfbqd3U"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "AR",
+          "AU",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "DZ",
+          "EC",
+          "EG",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IL",
+          "IN",
+          "JO",
+          "KW",
+          "LB",
+          "MA",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PS",
+          "PY",
+          "QA",
+          "SA",
+          "SG",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 246013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/431HdpMpvsQUZyaAtldFVR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/431HdpMpvsQUZyaAtldFVR",
+        "id": "431HdpMpvsQUZyaAtldFVR",
+        "is_local": false,
+        "name": "GRIEF - Live Take at SHINKIBA STUDIO COAST on April 16, 2019",
+        "preview_url": "https://p.scdn.co/mp3-preview/43c5da983c0430326ec4f79f0c5afacf802ed1d8?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:431HdpMpvsQUZyaAtldFVR"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:5uaOMPxQKDt5PiVgGfNEAL"
+}

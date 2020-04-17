@@ -1,0 +1,167 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+      "id": "3kNqzLmW33fQIfmZ1OfqMA",
+      "name": "Dir En Grey",
+      "type": "artist",
+      "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BE",
+    "BG",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SK",
+    "TR"
+  ],
+  "copyrights": [
+    {
+      "text": "Sun-krad Co., Ltd.",
+      "type": "C"
+    },
+    {
+      "text": "Sun-krad Co., Ltd.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3614970039273"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3gOxILI0P3b8OPm5owwmCe"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3gOxILI0P3b8OPm5owwmCe",
+  "id": "3gOxILI0P3b8OPm5owwmCe",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27354850146a6491f774b64f90d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0254850146a6491f774b64f90d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485154850146a6491f774b64f90d",
+      "width": 64
+    }
+  ],
+  "label": "Okami Records",
+  "name": "UTAFUMI",
+  "popularity": 4,
+  "release_date": "2016-07-27",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3gOxILI0P3b8OPm5owwmCe/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 167838,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0F4ZfAsH2vWiySBq65T8HY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0F4ZfAsH2vWiySBq65T8HY",
+        "id": "0F4ZfAsH2vWiySBq65T8HY",
+        "is_local": false,
+        "name": "UTAFUMI",
+        "preview_url": "https://p.scdn.co/mp3-preview/b63ac1de03ea1a86c586958c05ca390c9c586098?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0F4ZfAsH2vWiySBq65T8HY"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+  },
+  "type": "album",
+  "uri": "spotify:album:3gOxILI0P3b8OPm5owwmCe"
+}

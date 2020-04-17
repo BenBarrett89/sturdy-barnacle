@@ -1,0 +1,205 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2002 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2002 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002426607"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0VlO1fGpFLk5wB7A3Jz7RW"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0VlO1fGpFLk5wB7A3Jz7RW",
+  "id": "0VlO1fGpFLk5wB7A3Jz7RW",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e4e24386b21b68c0f7cfdb43",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e4e24386b21b68c0f7cfdb43",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e4e24386b21b68c0f7cfdb43",
+      "width": 64
+    }
+  ],
+  "label": "HAPPYHOUSE",
+  "name": "FANTASISTA",
+  "popularity": 31,
+  "release_date": "2002-03-06",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0VlO1fGpFLk5wB7A3Jz7RW/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 268688,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65Ro2pVDw7NA8w9Di3le2u"
+        },
+        "href": "https://api.spotify.com/v1/tracks/65Ro2pVDw7NA8w9Di3le2u",
+        "id": "65Ro2pVDw7NA8w9Di3le2u",
+        "is_local": false,
+        "name": "Fantasista",
+        "preview_url": "https://p.scdn.co/mp3-preview/b73d80aac3208bb2841a0e1795a20768399356ec?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:65Ro2pVDw7NA8w9Di3le2u"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1InVrkqCtH9gTS29yL8M1c"
+            },
+            "href": "https://api.spotify.com/v1/artists/1InVrkqCtH9gTS29yL8M1c",
+            "id": "1InVrkqCtH9gTS29yL8M1c",
+            "name": "PASSER",
+            "type": "artist",
+            "uri": "spotify:artist:1InVrkqCtH9gTS29yL8M1c"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3OYVkGGP8f9MJ71s9JMaV4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3OYVkGGP8f9MJ71s9JMaV4",
+            "id": "3OYVkGGP8f9MJ71s9JMaV4",
+            "name": "HUNTER",
+            "type": "artist",
+            "uri": "spotify:artist:3OYVkGGP8f9MJ71s9JMaV4"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6bVofiXSG0vKcgzpyU0x5z"
+            },
+            "href": "https://api.spotify.com/v1/artists/6bVofiXSG0vKcgzpyU0x5z",
+            "id": "6bVofiXSG0vKcgzpyU0x5z",
+            "name": "黒兄",
+            "type": "artist",
+            "uri": "spotify:artist:6bVofiXSG0vKcgzpyU0x5z"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5eZqUPmwuUE6OEZ0h2sZTJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5eZqUPmwuUE6OEZ0h2sZTJ",
+            "id": "5eZqUPmwuUE6OEZ0h2sZTJ",
+            "name": "ONO-G",
+            "type": "artist",
+            "uri": "spotify:artist:5eZqUPmwuUE6OEZ0h2sZTJ"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 243187,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ODtJy0j5UZwwfuWPMHCuN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ODtJy0j5UZwwfuWPMHCuN",
+        "id": "0ODtJy0j5UZwwfuWPMHCuN",
+        "is_local": false,
+        "name": "Mob Squad",
+        "preview_url": "https://p.scdn.co/mp3-preview/81d2ae73d5ae3ce44b4217653aa29f795035c99a?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0ODtJy0j5UZwwfuWPMHCuN"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 254858,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fhctkZwcXqEJRqF3wegJi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2fhctkZwcXqEJRqF3wegJi",
+        "id": "2fhctkZwcXqEJRqF3wegJi",
+        "is_local": false,
+        "name": "Patience",
+        "preview_url": "https://p.scdn.co/mp3-preview/2a179a11f0bb8772867cb3bc9474b915ddd99904?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2fhctkZwcXqEJRqF3wegJi"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:0VlO1fGpFLk5wB7A3Jz7RW"
+}

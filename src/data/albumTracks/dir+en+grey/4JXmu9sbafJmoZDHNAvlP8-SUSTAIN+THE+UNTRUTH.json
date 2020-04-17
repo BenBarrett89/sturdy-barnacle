@@ -1,0 +1,293 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+      },
+      "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+      "id": "3kNqzLmW33fQIfmZ1OfqMA",
+      "name": "Dir En Grey",
+      "type": "artist",
+      "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BE",
+    "BG",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SK",
+    "TR"
+  ],
+  "copyrights": [
+    {
+      "text": "Firewall Div.",
+      "type": "C"
+    },
+    {
+      "text": "TV Tokyo Music",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "3610154795324"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4JXmu9sbafJmoZDHNAvlP8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/4JXmu9sbafJmoZDHNAvlP8",
+  "id": "4JXmu9sbafJmoZDHNAvlP8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d29a79094cf8799054b861bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d29a79094cf8799054b861bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d29a79094cf8799054b861bb",
+      "width": 64
+    }
+  ],
+  "label": "Okami Records",
+  "name": "SUSTAIN THE UNTRUTH",
+  "popularity": 4,
+  "release_date": "2014-01-22",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4JXmu9sbafJmoZDHNAvlP8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 268026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qA5m8qEVT75fDm8IwvEeY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6qA5m8qEVT75fDm8IwvEeY",
+        "id": "6qA5m8qEVT75fDm8IwvEeY",
+        "is_local": false,
+        "name": "SUSTAIN THE UNTRUTH",
+        "preview_url": "https://p.scdn.co/mp3-preview/6a5686dbdd19b1f6faef9776030bfc94af4d4542?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6qA5m8qEVT75fDm8IwvEeY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 272133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5nHBigMo25aew5iLEprwic"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5nHBigMo25aew5iLEprwic",
+        "id": "5nHBigMo25aew5iLEprwic",
+        "is_local": false,
+        "name": "Ruten No Tou - Acoustic Version",
+        "preview_url": "https://p.scdn.co/mp3-preview/fbcb7cd4d059d0d236382c060f4224e76f920029?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5nHBigMo25aew5iLEprwic"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+            "id": "3kNqzLmW33fQIfmZ1OfqMA",
+            "name": "Dir En Grey",
+            "type": "artist",
+            "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 285040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78ATORf2XMXFEAV3wKQ6fA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/78ATORf2XMXFEAV3wKQ6fA",
+        "id": "78ATORf2XMXFEAV3wKQ6fA",
+        "is_local": false,
+        "name": "GAIKA, CHINMOKU GA NEMURU KORO - Live Take At Yokohama Blitz On September 18, 2013",
+        "preview_url": "https://p.scdn.co/mp3-preview/e6028d9a27de81787d5bbfcbecee5417fea28aad?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:78ATORf2XMXFEAV3wKQ6fA"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:4JXmu9sbafJmoZDHNAvlP8"
+}

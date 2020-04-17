@@ -1,0 +1,196 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+      "id": "2wDlv5Qp9pffOqnO4vdn8L",
+      "name": "Dragon Ash",
+      "type": "artist",
+      "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2012 JVCKENWOOD Victor Entertainment",
+      "type": "C"
+    },
+    {
+      "text": "2012 JVCKENWOOD Victor Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988002618460"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5C2KJnXOXcMD3z1PQJ30Ww"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5C2KJnXOXcMD3z1PQJ30Ww",
+  "id": "5C2KJnXOXcMD3z1PQJ30Ww",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730bee2af0eb7018e4f5f7a6b4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020bee2af0eb7018e4f5f7a6b4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510bee2af0eb7018e4f5f7a6b4",
+      "width": 64
+    }
+  ],
+  "label": "MOB SQUAD",
+  "name": "Run to the Sun / Walk with Dreams",
+  "popularity": 21,
+  "release_date": "2012-09-19",
+  "release_date_precision": "day",
+  "total_tracks": 4,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5C2KJnXOXcMD3z1PQJ30Ww/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 258102,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xBbMHQEm5dYSfxf2peBZy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5xBbMHQEm5dYSfxf2peBZy",
+        "id": "5xBbMHQEm5dYSfxf2peBZy",
+        "is_local": false,
+        "name": "Run to the Sun",
+        "preview_url": "https://p.scdn.co/mp3-preview/df79ae88e18c3fe1332f6d7f52e9449947bce042?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5xBbMHQEm5dYSfxf2peBZy"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 249040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18wfxHCvP9iZCRFyC3MPOd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/18wfxHCvP9iZCRFyC3MPOd",
+        "id": "18wfxHCvP9iZCRFyC3MPOd",
+        "is_local": false,
+        "name": "Walk with Dreams",
+        "preview_url": "https://p.scdn.co/mp3-preview/59b8f095e719d4dc78b1f9b14c3dc196405d9872?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:18wfxHCvP9iZCRFyC3MPOd"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 310970,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7lwww3BbQnXOkrXY44CKz5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7lwww3BbQnXOkrXY44CKz5",
+        "id": "7lwww3BbQnXOkrXY44CKz5",
+        "is_local": false,
+        "name": "Run to the Sun“RockStar mix”",
+        "preview_url": "https://p.scdn.co/mp3-preview/b4c8a10bacbbc3a3001de53a75851e6b2ba3fedc?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7lwww3BbQnXOkrXY44CKz5"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wDlv5Qp9pffOqnO4vdn8L",
+            "id": "2wDlv5Qp9pffOqnO4vdn8L",
+            "name": "Dragon Ash",
+            "type": "artist",
+            "uri": "spotify:artist:2wDlv5Qp9pffOqnO4vdn8L"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 228440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2GM7Qme9NPOzgQQbZeYTMn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2GM7Qme9NPOzgQQbZeYTMn",
+        "id": "2GM7Qme9NPOzgQQbZeYTMn",
+        "is_local": false,
+        "name": "Walk with Dreams“Live On”",
+        "preview_url": "https://p.scdn.co/mp3-preview/9e7bf34117deefc20cb2e351222578910bb8a3d3?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2GM7Qme9NPOzgQQbZeYTMn"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  },
+  "type": "album",
+  "uri": "spotify:album:5C2KJnXOXcMD3z1PQJ30Ww"
+}

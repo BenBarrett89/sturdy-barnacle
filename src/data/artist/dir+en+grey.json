@@ -1,0 +1,42 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
+  },
+  "followers": {
+    "href": null,
+    "total": 116650
+  },
+  "genres": [
+    "idol rock",
+    "j-metal",
+    "visual kei"
+  ],
+  "href": "https://api.spotify.com/v1/artists/3kNqzLmW33fQIfmZ1OfqMA",
+  "id": "3kNqzLmW33fQIfmZ1OfqMA",
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/12db2047234007409f3b04a55ba92ae00813af53",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/7a9abdbe3e5f3d47b38579c4a7b8e23c23253c26",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/ffeab29f0b4919be560c5fcf9a6f34421de2d9db",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/235fbe08242d6a2d8c7a2665d860a9742718d888",
+      "width": 64
+    }
+  ],
+  "name": "Dir En Grey",
+  "popularity": 49,
+  "type": "artist",
+  "uri": "spotify:artist:3kNqzLmW33fQIfmZ1OfqMA"
+}

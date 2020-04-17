@@ -107,5 +107,5 @@ dist
 .env
 
 # Data folder contents
-src/data/**/**
-!src/data/.gitkeep
+# src/data/**/**
+# !src/data/.gitkeep
