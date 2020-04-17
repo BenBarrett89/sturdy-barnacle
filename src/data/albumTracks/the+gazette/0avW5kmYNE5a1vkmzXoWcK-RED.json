@@ -1,0 +1,293 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+      "id": "4gRFSxjAcJkb54BDjqo7Bc",
+      "name": "the GazettE",
+      "type": "artist",
+      "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BE",
+    "BG",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SK",
+    "TR"
+  ],
+  "copyrights": [
+    {
+      "text": "2010 Sony Music Records Inc. (under license to JPU Records Ltd.)",
+      "type": "C"
+    },
+    {
+      "text": "2010 Sony Music Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718857980452"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0avW5kmYNE5a1vkmzXoWcK"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0avW5kmYNE5a1vkmzXoWcK",
+  "id": "0avW5kmYNE5a1vkmzXoWcK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27380da176758b00cf932af3bfc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0280da176758b00cf932af3bfc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485180da176758b00cf932af3bfc",
+      "width": 64
+    }
+  ],
+  "label": "JPU Records Ltd.",
+  "name": "RED",
+  "popularity": 8,
+  "release_date": "2010-09-22",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0avW5kmYNE5a1vkmzXoWcK/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 205013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/61UBbYR16vCfo2CuZCUd2R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/61UBbYR16vCfo2CuZCUd2R",
+        "id": "61UBbYR16vCfo2CuZCUd2R",
+        "is_local": false,
+        "name": "RED",
+        "preview_url": "https://p.scdn.co/mp3-preview/679e8aa6383c6cffc91b6d67571e1658ba49dc16?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:61UBbYR16vCfo2CuZCUd2R"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 227666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5J7e3kLbHPvvgVUXS7yvbp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5J7e3kLbHPvvgVUXS7yvbp",
+        "id": "5J7e3kLbHPvvgVUXS7yvbp",
+        "is_local": false,
+        "name": "VERMIN",
+        "preview_url": "https://p.scdn.co/mp3-preview/47d6b2406e2f97d0837f71846c1953a6f789afde?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5J7e3kLbHPvvgVUXS7yvbp"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 212986,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5bj0rAYoyJSpsjh9hX4zZz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5bj0rAYoyJSpsjh9hX4zZz",
+        "id": "5bj0rAYoyJSpsjh9hX4zZz",
+        "is_local": false,
+        "name": "AN UNBEARABLE FACT",
+        "preview_url": "https://p.scdn.co/mp3-preview/c20796ed7d0c71ace896b03d67dc27fd0375c593?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5bj0rAYoyJSpsjh9hX4zZz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:0avW5kmYNE5a1vkmzXoWcK"
+}

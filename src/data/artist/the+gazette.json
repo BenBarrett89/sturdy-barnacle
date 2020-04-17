@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+  },
+  "followers": {
+    "href": null,
+    "total": 162217
+  },
+  "genres": [
+    "j-metal",
+    "japanese post-hardcore",
+    "oshare kei",
+    "visual kei"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+  "id": "4gRFSxjAcJkb54BDjqo7Bc",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/bde41bd057f7b06d481f94d3ead2fb8eba0f461e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/baf11539fad7d6b16938d2181ee3e83b6dd87671",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/51a686cc01d039007b48545e2f4f87307a146821",
+      "width": 160
+    }
+  ],
+  "name": "the GazettE",
+  "popularity": 51,
+  "type": "artist",
+  "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+}

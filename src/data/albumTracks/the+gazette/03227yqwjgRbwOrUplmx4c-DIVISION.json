@@ -1,0 +1,502 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+      "id": "4gRFSxjAcJkb54BDjqo7Bc",
+      "name": "the GazettE",
+      "type": "artist",
+      "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2012 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988009056494"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/03227yqwjgRbwOrUplmx4c"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/03227yqwjgRbwOrUplmx4c",
+  "id": "03227yqwjgRbwOrUplmx4c",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732e71064dbfb60cdefb839035",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022e71064dbfb60cdefb839035",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512e71064dbfb60cdefb839035",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "DIVISION",
+  "popularity": 21,
+  "release_date": "2012-08-29",
+  "release_date_precision": "day",
+  "total_tracks": 14,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/03227yqwjgRbwOrUplmx4c/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 73400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/399mI1gxjMazWafGlxYOUC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/399mI1gxjMazWafGlxYOUC",
+        "id": "399mI1gxjMazWafGlxYOUC",
+        "is_local": false,
+        "name": "[Depth]",
+        "preview_url": "https://p.scdn.co/mp3-preview/e93f5809afdad5c8286da321f20eee0a40a2456a?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:399mI1gxjMazWafGlxYOUC"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 239266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62UikP20CKN0VJNyywLpOY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/62UikP20CKN0VJNyywLpOY",
+        "id": "62UikP20CKN0VJNyywLpOY",
+        "is_local": false,
+        "name": "歪",
+        "preview_url": "https://p.scdn.co/mp3-preview/b0d96fab7eae9a7536cb5b0f46c68f5fce33f963?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:62UikP20CKN0VJNyywLpOY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 278973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4uNljEbsENHsfrbipxq4bn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4uNljEbsENHsfrbipxq4bn",
+        "id": "4uNljEbsENHsfrbipxq4bn",
+        "is_local": false,
+        "name": "籠の蛹",
+        "preview_url": "https://p.scdn.co/mp3-preview/073cf608295cf6bf1088d2152145c0252057fb56?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4uNljEbsENHsfrbipxq4bn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 212413,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/48h2eYIe6oBb8ICJUHKXxu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/48h2eYIe6oBb8ICJUHKXxu",
+        "id": "48h2eYIe6oBb8ICJUHKXxu",
+        "is_local": false,
+        "name": "ヘドロ",
+        "preview_url": "https://p.scdn.co/mp3-preview/fc72b2a76ae2a5474e5925fab8cc65b4e4aba2d9?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:48h2eYIe6oBb8ICJUHKXxu"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 261973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5mLASjVlcsg4g9hfU7MD0O"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5mLASjVlcsg4g9hfU7MD0O",
+        "id": "5mLASjVlcsg4g9hfU7MD0O",
+        "is_local": false,
+        "name": "影踏み",
+        "preview_url": "https://p.scdn.co/mp3-preview/82150b4465277aff61b9406f88e8b431abf55014?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5mLASjVlcsg4g9hfU7MD0O"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 208800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6kCNp8KAvWJqADA27ItCZe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6kCNp8KAvWJqADA27ItCZe",
+        "id": "6kCNp8KAvWJqADA27ItCZe",
+        "is_local": false,
+        "name": "余韻",
+        "preview_url": "https://p.scdn.co/mp3-preview/f7d5a7fc157a55f25953d9b75b007dbbbe150bad?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6kCNp8KAvWJqADA27ItCZe"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 103640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aWDBB82EYZUvsJmT8PqEi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5aWDBB82EYZUvsJmT8PqEi",
+        "id": "5aWDBB82EYZUvsJmT8PqEi",
+        "is_local": false,
+        "name": "[Diplosomia]",
+        "preview_url": "https://p.scdn.co/mp3-preview/de2fe937b7af2178f640bf593c76a7d39ad0bcc2?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5aWDBB82EYZUvsJmT8PqEi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 105920,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6B0SKkV2zRziY32z9YneSy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6B0SKkV2zRziY32z9YneSy",
+        "id": "6B0SKkV2zRziY32z9YneSy",
+        "is_local": false,
+        "name": "[XI]",
+        "preview_url": "https://p.scdn.co/mp3-preview/ecae2b24164ed402b869b159b67c022b0331f865?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6B0SKkV2zRziY32z9YneSy"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 282360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4KLj2j3PT9NWQh5D1DFIHc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4KLj2j3PT9NWQh5D1DFIHc",
+        "id": "4KLj2j3PT9NWQh5D1DFIHc",
+        "is_local": false,
+        "name": "DERANGEMENT",
+        "preview_url": "https://p.scdn.co/mp3-preview/d09367e46bb13e2eb190b0a498cdac780b02e497?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4KLj2j3PT9NWQh5D1DFIHc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 247253,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tqrUwUFpIUiBoEdDpQ1eO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tqrUwUFpIUiBoEdDpQ1eO",
+        "id": "3tqrUwUFpIUiBoEdDpQ1eO",
+        "is_local": false,
+        "name": "REQUIRED MALFUNCTION",
+        "preview_url": "https://p.scdn.co/mp3-preview/42dc3b768d49776edcb57e17b954d275d1a905ab?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3tqrUwUFpIUiBoEdDpQ1eO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 247746,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3IAoeYrXkIJwusJjxKgolq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3IAoeYrXkIJwusJjxKgolq",
+        "id": "3IAoeYrXkIJwusJjxKgolq",
+        "is_local": false,
+        "name": "DRIPPING INSANITY",
+        "preview_url": "https://p.scdn.co/mp3-preview/f993a4d8d2988defda847affdc0fd1050159f5bc?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3IAoeYrXkIJwusJjxKgolq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 209173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WHj7MpRzjxob2tZ36cNrQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0WHj7MpRzjxob2tZ36cNrQ",
+        "id": "0WHj7MpRzjxob2tZ36cNrQ",
+        "is_local": false,
+        "name": "ATTITUDE",
+        "preview_url": "https://p.scdn.co/mp3-preview/de514d94537bc52ff2a703731e42badd54bd66a6?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:0WHj7MpRzjxob2tZ36cNrQ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 244000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4sk7Ac4GG5OB95LveXimTq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4sk7Ac4GG5OB95LveXimTq",
+        "id": "4sk7Ac4GG5OB95LveXimTq",
+        "is_local": false,
+        "name": "GABRIEL ON THE GALLOWS",
+        "preview_url": "https://p.scdn.co/mp3-preview/6c6eab8d8ebdd4aa3cc04f91f6f57d719851e1e7?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:4sk7Ac4GG5OB95LveXimTq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 187186,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Ypg3hCeOb227x2FagEfNh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Ypg3hCeOb227x2FagEfNh",
+        "id": "2Ypg3hCeOb227x2FagEfNh",
+        "is_local": false,
+        "name": "[Melt]",
+        "preview_url": "https://p.scdn.co/mp3-preview/a1fa5341fa476e0d30eac82350325a2ffafbddbb?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:2Ypg3hCeOb227x2FagEfNh"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 14
+  },
+  "type": "album",
+  "uri": "spotify:album:03227yqwjgRbwOrUplmx4c"
+}

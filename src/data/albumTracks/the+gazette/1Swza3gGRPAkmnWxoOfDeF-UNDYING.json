@@ -1,0 +1,161 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+      "id": "4gRFSxjAcJkb54BDjqo7Bc",
+      "name": "the GazettE",
+      "type": "artist",
+      "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2016 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988009129037"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1Swza3gGRPAkmnWxoOfDeF"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/1Swza3gGRPAkmnWxoOfDeF",
+  "id": "1Swza3gGRPAkmnWxoOfDeF",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aec7fb87b9a5a4c5c23f0815",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aec7fb87b9a5a4c5c23f0815",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aec7fb87b9a5a4c5c23f0815",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "UNDYING",
+  "popularity": 16,
+  "release_date": "2016-04-27",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1Swza3gGRPAkmnWxoOfDeF/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 309293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/42rkOd1QJPz8BQKfZwt0V3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/42rkOd1QJPz8BQKfZwt0V3",
+        "id": "42rkOd1QJPz8BQKfZwt0V3",
+        "is_local": false,
+        "name": "UNDYING",
+        "preview_url": "https://p.scdn.co/mp3-preview/6e0a95ed78811af877a14f835ef1455d7d009510?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:42rkOd1QJPz8BQKfZwt0V3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 208666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7HFbaWk50zVfbv3uSGbgAa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7HFbaWk50zVfbv3uSGbgAa",
+        "id": "7HFbaWk50zVfbv3uSGbgAa",
+        "is_local": false,
+        "name": "MALUM",
+        "preview_url": "https://p.scdn.co/mp3-preview/a3f57cf2655822cc0e02b96ced82dab5f3eb08bc?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7HFbaWk50zVfbv3uSGbgAa"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 273040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3pFNILTmOFzW8jMMAGiblV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3pFNILTmOFzW8jMMAGiblV",
+        "id": "3pFNILTmOFzW8jMMAGiblV",
+        "is_local": false,
+        "name": "VACANT",
+        "preview_url": "https://p.scdn.co/mp3-preview/086bac27f8b620300ec53694c413c134936a9c96?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3pFNILTmOFzW8jMMAGiblV"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:1Swza3gGRPAkmnWxoOfDeF"
+}

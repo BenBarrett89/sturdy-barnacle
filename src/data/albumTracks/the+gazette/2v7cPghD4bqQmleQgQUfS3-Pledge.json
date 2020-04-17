@@ -1,0 +1,317 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+      "id": "4gRFSxjAcJkb54BDjqo7Bc",
+      "name": "the GazettE",
+      "type": "artist",
+      "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AR",
+    "AU",
+    "BH",
+    "BO",
+    "BR",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "DO",
+    "EC",
+    "EG",
+    "GT",
+    "HK",
+    "HN",
+    "ID",
+    "IN",
+    "JO",
+    "KW",
+    "LB",
+    "MX",
+    "MY",
+    "NI",
+    "NZ",
+    "OM",
+    "PA",
+    "PE",
+    "PH",
+    "PS",
+    "PY",
+    "QA",
+    "SA",
+    "SG",
+    "SV",
+    "TH",
+    "TW",
+    "US",
+    "UY",
+    "VN"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2010 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "884977803914"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2v7cPghD4bqQmleQgQUfS3"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2v7cPghD4bqQmleQgQUfS3",
+  "id": "2v7cPghD4bqQmleQgQUfS3",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273730100ef79e0c36175236701",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02730100ef79e0c36175236701",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851730100ef79e0c36175236701",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "Pledge",
+  "popularity": 14,
+  "release_date": "2010-12-15",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2v7cPghD4bqQmleQgQUfS3/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "AR",
+          "AU",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "EG",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IN",
+          "JO",
+          "KW",
+          "LB",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PS",
+          "PY",
+          "QA",
+          "SA",
+          "SG",
+          "SV",
+          "TH",
+          "TW",
+          "US",
+          "UY",
+          "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 361946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7zzDV4Pj9z5Pu6f6wW6QOK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7zzDV4Pj9z5Pu6f6wW6QOK",
+        "id": "7zzDV4Pj9z5Pu6f6wW6QOK",
+        "is_local": false,
+        "name": "Pledge",
+        "preview_url": "https://p.scdn.co/mp3-preview/7ce0a44cbc654c583ef50f46f631cbaed68998fd?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7zzDV4Pj9z5Pu6f6wW6QOK"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "AR",
+          "AU",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "EG",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IN",
+          "JO",
+          "KW",
+          "LB",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PS",
+          "PY",
+          "QA",
+          "SA",
+          "SG",
+          "SV",
+          "TH",
+          "TW",
+          "US",
+          "UY",
+          "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 202360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2gitVd1k1LCa1FfpJVptIt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2gitVd1k1LCa1FfpJVptIt",
+        "id": "2gitVd1k1LCa1FfpJVptIt",
+        "is_local": false,
+        "name": "The True Murderous Intent",
+        "preview_url": "https://p.scdn.co/mp3-preview/d0d5d2477749672d78d37cc77c33e656f4c31111?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2gitVd1k1LCa1FfpJVptIt"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "AR",
+          "AU",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "EG",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IN",
+          "JO",
+          "KW",
+          "LB",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PS",
+          "PY",
+          "QA",
+          "SA",
+          "SG",
+          "SV",
+          "TH",
+          "TW",
+          "US",
+          "UY",
+          "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 315493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QD81tJVXyylQcPm9rDQPD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6QD81tJVXyylQcPm9rDQPD",
+        "id": "6QD81tJVXyylQcPm9rDQPD",
+        "is_local": false,
+        "name": "Voiceless Fear",
+        "preview_url": "https://p.scdn.co/mp3-preview/76a9713ca22cb06046674415df0ea22d4a625577?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6QD81tJVXyylQcPm9rDQPD"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:2v7cPghD4bqQmleQgQUfS3"
+}

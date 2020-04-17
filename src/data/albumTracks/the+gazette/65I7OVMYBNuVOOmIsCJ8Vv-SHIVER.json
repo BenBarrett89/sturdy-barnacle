@@ -1,0 +1,317 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+      "id": "4gRFSxjAcJkb54BDjqo7Bc",
+      "name": "the GazettE",
+      "type": "artist",
+      "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AR",
+    "AU",
+    "BH",
+    "BO",
+    "BR",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "DO",
+    "EC",
+    "EG",
+    "GT",
+    "HK",
+    "HN",
+    "ID",
+    "IN",
+    "JO",
+    "KW",
+    "LB",
+    "MX",
+    "MY",
+    "NI",
+    "NZ",
+    "OM",
+    "PA",
+    "PE",
+    "PH",
+    "PS",
+    "PY",
+    "QA",
+    "SA",
+    "SG",
+    "SV",
+    "TH",
+    "TW",
+    "US",
+    "UY",
+    "VN"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2010 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "884977679083"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/65I7OVMYBNuVOOmIsCJ8Vv"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/65I7OVMYBNuVOOmIsCJ8Vv",
+  "id": "65I7OVMYBNuVOOmIsCJ8Vv",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737b5201cca883cbda804bcb08",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027b5201cca883cbda804bcb08",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517b5201cca883cbda804bcb08",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "SHIVER",
+  "popularity": 15,
+  "release_date": "2010-07-21",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/65I7OVMYBNuVOOmIsCJ8Vv/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "AR",
+          "AU",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "EG",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IN",
+          "JO",
+          "KW",
+          "LB",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PS",
+          "PY",
+          "QA",
+          "SA",
+          "SG",
+          "SV",
+          "TH",
+          "TW",
+          "US",
+          "UY",
+          "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 249426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gw1397ZsaTLm7DP0fLSvT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7gw1397ZsaTLm7DP0fLSvT",
+        "id": "7gw1397ZsaTLm7DP0fLSvT",
+        "is_local": false,
+        "name": "SHIVER",
+        "preview_url": "https://p.scdn.co/mp3-preview/81a8cb44598587171ab6e46c9dc1f9f5d8ce58ef?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7gw1397ZsaTLm7DP0fLSvT"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "AR",
+          "AU",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "EG",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IN",
+          "JO",
+          "KW",
+          "LB",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PS",
+          "PY",
+          "QA",
+          "SA",
+          "SG",
+          "SV",
+          "TH",
+          "TW",
+          "US",
+          "UY",
+          "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 236293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ZNcSToFlcIb3MRTqiijFx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ZNcSToFlcIb3MRTqiijFx",
+        "id": "2ZNcSToFlcIb3MRTqiijFx",
+        "is_local": false,
+        "name": "HESITATING MEANS DEATH",
+        "preview_url": "https://p.scdn.co/mp3-preview/2dc827f42e441bf31bf87bedf9e4883122200793?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2ZNcSToFlcIb3MRTqiijFx"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "AR",
+          "AU",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "EG",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IN",
+          "JO",
+          "KW",
+          "LB",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PS",
+          "PY",
+          "QA",
+          "SA",
+          "SG",
+          "SV",
+          "TH",
+          "TW",
+          "US",
+          "UY",
+          "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 256093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3fONQFPcOihS3xqXJJZJKM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3fONQFPcOihS3xqXJJZJKM",
+        "id": "3fONQFPcOihS3xqXJJZJKM",
+        "is_local": false,
+        "name": "Naraku",
+        "preview_url": "https://p.scdn.co/mp3-preview/b1fc755290db9a3a3760f7eb89eb4b7717cfc880?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3fONQFPcOihS3xqXJJZJKM"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:65I7OVMYBNuVOOmIsCJ8Vv"
+}

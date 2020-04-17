@@ -1,0 +1,317 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+      "id": "4gRFSxjAcJkb54BDjqo7Bc",
+      "name": "the GazettE",
+      "type": "artist",
+      "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+    }
+  ],
+  "available_markets": [
+    "AE",
+    "AR",
+    "AU",
+    "BH",
+    "BO",
+    "BR",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "DO",
+    "EC",
+    "EG",
+    "GT",
+    "HK",
+    "HN",
+    "ID",
+    "IN",
+    "JO",
+    "KW",
+    "LB",
+    "MX",
+    "MY",
+    "NI",
+    "NZ",
+    "OM",
+    "PA",
+    "PE",
+    "PH",
+    "PS",
+    "PY",
+    "QA",
+    "SA",
+    "SG",
+    "SV",
+    "TH",
+    "TW",
+    "US",
+    "UY",
+    "VN"
+  ],
+  "copyrights": [
+    {
+      "text": "(P) 2015 Sony Music Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886445562057"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5Jqhjn7Dl6pcKU15gjOj8r"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/5Jqhjn7Dl6pcKU15gjOj8r",
+  "id": "5Jqhjn7Dl6pcKU15gjOj8r",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735bb0ad14d29c526b861e0916",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025bb0ad14d29c526b861e0916",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515bb0ad14d29c526b861e0916",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "Ugly",
+  "popularity": 28,
+  "release_date": "2015-11-18",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5Jqhjn7Dl6pcKU15gjOj8r/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "AR",
+          "AU",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "EG",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IN",
+          "JO",
+          "KW",
+          "LB",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PS",
+          "PY",
+          "QA",
+          "SA",
+          "SG",
+          "SV",
+          "TH",
+          "TW",
+          "US",
+          "UY",
+          "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 210626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/72nlHD6DtCnwAT1Oy6R6W8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/72nlHD6DtCnwAT1Oy6R6W8",
+        "id": "72nlHD6DtCnwAT1Oy6R6W8",
+        "is_local": false,
+        "name": "Ugly",
+        "preview_url": "https://p.scdn.co/mp3-preview/580bd7afc43d0c292be246c05263c6f760f1094e?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:72nlHD6DtCnwAT1Oy6R6W8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "AR",
+          "AU",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "EG",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IN",
+          "JO",
+          "KW",
+          "LB",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PS",
+          "PY",
+          "QA",
+          "SA",
+          "SG",
+          "SV",
+          "TH",
+          "TW",
+          "US",
+          "UY",
+          "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 197693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gwfpZHpBn880u1W5do9Xa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7gwfpZHpBn880u1W5do9Xa",
+        "id": "7gwfpZHpBn880u1W5do9Xa",
+        "is_local": false,
+        "name": "Depravity",
+        "preview_url": "https://p.scdn.co/mp3-preview/50b9f763224a047c27c14a088b9dff19c3680196?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7gwfpZHpBn880u1W5do9Xa"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "AR",
+          "AU",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "EG",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IN",
+          "JO",
+          "KW",
+          "LB",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PS",
+          "PY",
+          "QA",
+          "SA",
+          "SG",
+          "SV",
+          "TH",
+          "TW",
+          "US",
+          "UY",
+          "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 224893,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0JNOR8ypZWiZeHbKrj18TS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0JNOR8ypZWiZeHbKrj18TS",
+        "id": "0JNOR8ypZWiZeHbKrj18TS",
+        "is_local": false,
+        "name": "Goddess",
+        "preview_url": "https://p.scdn.co/mp3-preview/f8aa35f120a053aa1481a9953bda3ccf1cf33471?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0JNOR8ypZWiZeHbKrj18TS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:5Jqhjn7Dl6pcKU15gjOj8r"
+}

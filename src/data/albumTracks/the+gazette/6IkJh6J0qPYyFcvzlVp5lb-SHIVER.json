@@ -1,0 +1,293 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+      "id": "4gRFSxjAcJkb54BDjqo7Bc",
+      "name": "the GazettE",
+      "type": "artist",
+      "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BE",
+    "BG",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SK",
+    "TR"
+  ],
+  "copyrights": [
+    {
+      "text": "2010 Sony Music Records Inc. (under license to JPU Records Ltd.)",
+      "type": "C"
+    },
+    {
+      "text": "2010 Sony Music Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718857980476"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6IkJh6J0qPYyFcvzlVp5lb"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6IkJh6J0qPYyFcvzlVp5lb",
+  "id": "6IkJh6J0qPYyFcvzlVp5lb",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730180e3e3303408d9a13875ad",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020180e3e3303408d9a13875ad",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510180e3e3303408d9a13875ad",
+      "width": 64
+    }
+  ],
+  "label": "JPU Records Ltd.",
+  "name": "SHIVER",
+  "popularity": 9,
+  "release_date": "2010-07-21",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6IkJh6J0qPYyFcvzlVp5lb/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 250426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SOZj9bHmW1l3QxUMfjjDJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2SOZj9bHmW1l3QxUMfjjDJ",
+        "id": "2SOZj9bHmW1l3QxUMfjjDJ",
+        "is_local": false,
+        "name": "SHIVER",
+        "preview_url": "https://p.scdn.co/mp3-preview/e3be6ff0e44cd3fa6ff277f9795fc6795f734b9c?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2SOZj9bHmW1l3QxUMfjjDJ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 237040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/28vSWO5haWucWHLDgu349B"
+        },
+        "href": "https://api.spotify.com/v1/tracks/28vSWO5haWucWHLDgu349B",
+        "id": "28vSWO5haWucWHLDgu349B",
+        "is_local": false,
+        "name": "HESITATING MEANS DEATH",
+        "preview_url": "https://p.scdn.co/mp3-preview/2dc827f42e441bf31bf87bedf9e4883122200793?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:28vSWO5haWucWHLDgu349B"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 256093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rjrOGnIFqGhjv4ynnb8t0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3rjrOGnIFqGhjv4ynnb8t0",
+        "id": "3rjrOGnIFqGhjv4ynnb8t0",
+        "is_local": false,
+        "name": "奈落",
+        "preview_url": "https://p.scdn.co/mp3-preview/b1fc755290db9a3a3760f7eb89eb4b7717cfc880?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3rjrOGnIFqGhjv4ynnb8t0"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:6IkJh6J0qPYyFcvzlVp5lb"
+}

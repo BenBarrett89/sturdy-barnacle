@@ -1,0 +1,289 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+      "id": "4gRFSxjAcJkb54BDjqo7Bc",
+      "name": "the GazettE",
+      "type": "artist",
+      "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BE",
+    "BG",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SK",
+    "TR"
+  ],
+  "copyrights": [
+    {
+      "text": "2013 Sony Music Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "2013 Sony Music Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718857498605"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0Zkp58do9jNrkHXtuWZzOn"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/0Zkp58do9jNrkHXtuWZzOn",
+  "id": "0Zkp58do9jNrkHXtuWZzOn",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a564626e68a6a3c9637c6b3d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a564626e68a6a3c9637c6b3d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a564626e68a6a3c9637c6b3d",
+      "width": 64
+    }
+  ],
+  "label": "JPU Records Ltd.",
+  "name": "FADELESS",
+  "popularity": 6,
+  "release_date": "2013-08-21",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0Zkp58do9jNrkHXtuWZzOn/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 245293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/79NPFUTPTqUueP2gaolWtk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/79NPFUTPTqUueP2gaolWtk",
+        "id": "79NPFUTPTqUueP2gaolWtk",
+        "is_local": false,
+        "name": "FADELESS",
+        "preview_url": "https://p.scdn.co/mp3-preview/41d001f11738f53fe1c205f15bb63625a4654495?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:79NPFUTPTqUueP2gaolWtk"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 322546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/49m9tyELkbKHXk7tH3SVt8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/49m9tyELkbKHXk7tH3SVt8",
+        "id": "49m9tyELkbKHXk7tH3SVt8",
+        "is_local": false,
+        "name": "QUIET",
+        "preview_url": "https://p.scdn.co/mp3-preview/29df85e2247ec07f9102c81d949fc7fad4093119?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:49m9tyELkbKHXk7tH3SVt8"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 210853,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3QrSEoosJnVgaEuZU6VgUK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3QrSEoosJnVgaEuZU6VgUK",
+        "id": "3QrSEoosJnVgaEuZU6VgUK",
+        "is_local": false,
+        "name": "FORBIDDEN BEAVER",
+        "preview_url": "https://p.scdn.co/mp3-preview/a978d18f0f0be49bf8da07c0603eaf8ca4af5d44?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3QrSEoosJnVgaEuZU6VgUK"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:0Zkp58do9jNrkHXtuWZzOn"
+}

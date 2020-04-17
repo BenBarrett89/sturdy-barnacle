@@ -1,0 +1,161 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+      "id": "4gRFSxjAcJkb54BDjqo7Bc",
+      "name": "the GazettE",
+      "type": "artist",
+      "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2011 Sony Music Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988009066301"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3OTWvioB7y17PgDU5jQms8"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3OTWvioB7y17PgDU5jQms8",
+  "id": "3OTWvioB7y17PgDU5jQms8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c76c5b05fdbae0c3cf80d43c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c76c5b05fdbae0c3cf80d43c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c76c5b05fdbae0c3cf80d43c",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Records Inc.",
+  "name": "REMEMBER THE URGE",
+  "popularity": 9,
+  "release_date": "2011-08-31",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3OTWvioB7y17PgDU5jQms8/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 244546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/39L8gDI1jdSn6rR3Ub6IFq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/39L8gDI1jdSn6rR3Ub6IFq",
+        "id": "39L8gDI1jdSn6rR3Ub6IFq",
+        "is_local": false,
+        "name": "REMEMBER THE URGE",
+        "preview_url": "https://p.scdn.co/mp3-preview/fc24b2aef6ff77f680c7afa08859c1692d45b6c1?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:39L8gDI1jdSn6rR3Ub6IFq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 178320,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7nmbRlUZgYdJ6wn2zcpsWf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7nmbRlUZgYdJ6wn2zcpsWf",
+        "id": "7nmbRlUZgYdJ6wn2zcpsWf",
+        "is_local": false,
+        "name": "CLEVER MONKEY",
+        "preview_url": "https://p.scdn.co/mp3-preview/b77ca45d4d109816b9508eaddf3ac8ac77a870db?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7nmbRlUZgYdJ6wn2zcpsWf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 204186,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ZL986RZletCyguoXzAHEs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ZL986RZletCyguoXzAHEs",
+        "id": "2ZL986RZletCyguoXzAHEs",
+        "is_local": false,
+        "name": "痴情",
+        "preview_url": "https://p.scdn.co/mp3-preview/669e7207f4561e8db4d78192cc246b2fea9882d2?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2ZL986RZletCyguoXzAHEs"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:3OTWvioB7y17PgDU5jQms8"
+}

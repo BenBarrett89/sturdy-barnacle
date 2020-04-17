@@ -1,0 +1,293 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+      "id": "4gRFSxjAcJkb54BDjqo7Bc",
+      "name": "the GazettE",
+      "type": "artist",
+      "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AT",
+    "BE",
+    "BG",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SK",
+    "TR"
+  ],
+  "copyrights": [
+    {
+      "text": "2011 Sony Music Records Inc. (under license to JPU Records Ltd.)",
+      "type": "C"
+    },
+    {
+      "text": "2011 Sony Music Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "8718857980483"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2ymq82191q7UNwDJsBtIbI"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2ymq82191q7UNwDJsBtIbI",
+  "id": "2ymq82191q7UNwDJsBtIbI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273984e4d5fcf90629e3bc1d59f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02984e4d5fcf90629e3bc1d59f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851984e4d5fcf90629e3bc1d59f",
+      "width": 64
+    }
+  ],
+  "label": "JPU Records Ltd.",
+  "name": "VORTEX",
+  "popularity": 7,
+  "release_date": "2011-05-25",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2ymq82191q7UNwDJsBtIbI/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 244520,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12eFLnGoBzvQdHv5PBWadY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/12eFLnGoBzvQdHv5PBWadY",
+        "id": "12eFLnGoBzvQdHv5PBWadY",
+        "is_local": false,
+        "name": "VORTEX",
+        "preview_url": "https://p.scdn.co/mp3-preview/eeb7f506354a217114dee65186e3a353f6538cac?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:12eFLnGoBzvQdHv5PBWadY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 208133,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Al5A5WrlUSXkcIOlOAOGf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Al5A5WrlUSXkcIOlOAOGf",
+        "id": "0Al5A5WrlUSXkcIOlOAOGf",
+        "is_local": false,
+        "name": "UNCERTAIN SENSE",
+        "preview_url": "https://p.scdn.co/mp3-preview/a8729bc8237cdfba3fa9caae04887c7e4110744d?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0Al5A5WrlUSXkcIOlOAOGf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "BE",
+          "BG",
+          "CH",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SK",
+          "TR"
+        ],
+        "disc_number": 1,
+        "duration_ms": 214600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53LA3N7M0yaT38i8lAIKZU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/53LA3N7M0yaT38i8lAIKZU",
+        "id": "53LA3N7M0yaT38i8lAIKZU",
+        "is_local": false,
+        "name": "BREAK ME",
+        "preview_url": "https://p.scdn.co/mp3-preview/3b079fd548fb40872e128399c86fb8b9c4f4bed8?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:53LA3N7M0yaT38i8lAIKZU"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:2ymq82191q7UNwDJsBtIbI"
+}

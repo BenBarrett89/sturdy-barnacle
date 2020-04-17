@@ -53,6 +53,9 @@ Energy through album
 Loudness Average
 Loudness Violin Plots
 Loudness through album
+Time Signature Frequencies
+
+Generate track features based on distributions
 
 ## Display data
 

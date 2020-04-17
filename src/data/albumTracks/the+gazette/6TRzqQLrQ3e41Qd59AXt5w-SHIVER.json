@@ -1,0 +1,161 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+      "id": "4gRFSxjAcJkb54BDjqo7Bc",
+      "name": "the GazettE",
+      "type": "artist",
+      "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2010 Sony Music Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988009065311"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6TRzqQLrQ3e41Qd59AXt5w"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/6TRzqQLrQ3e41Qd59AXt5w",
+  "id": "6TRzqQLrQ3e41Qd59AXt5w",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737674388c801502e77d7184d5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027674388c801502e77d7184d5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517674388c801502e77d7184d5",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Records Inc.",
+  "name": "SHIVER",
+  "popularity": 12,
+  "release_date": "2010-07-21",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6TRzqQLrQ3e41Qd59AXt5w/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 249426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6kP9kRim2ewF2N9CxAZG7z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6kP9kRim2ewF2N9CxAZG7z",
+        "id": "6kP9kRim2ewF2N9CxAZG7z",
+        "is_local": false,
+        "name": "SHIVER",
+        "preview_url": "https://p.scdn.co/mp3-preview/81a8cb44598587171ab6e46c9dc1f9f5d8ce58ef?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6kP9kRim2ewF2N9CxAZG7z"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 237280,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QFgLLbwZiUzwMMX65m9x9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1QFgLLbwZiUzwMMX65m9x9",
+        "id": "1QFgLLbwZiUzwMMX65m9x9",
+        "is_local": false,
+        "name": "HESITATING MEANS DEATH",
+        "preview_url": "https://p.scdn.co/mp3-preview/2dc827f42e441bf31bf87bedf9e4883122200793?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1QFgLLbwZiUzwMMX65m9x9"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 256093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25cQsN1UjgHN4oH1bEYZZ3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/25cQsN1UjgHN4oH1bEYZZ3",
+        "id": "25cQsN1UjgHN4oH1bEYZZ3",
+        "is_local": false,
+        "name": "奈落",
+        "preview_url": "https://p.scdn.co/mp3-preview/b1fc755290db9a3a3760f7eb89eb4b7717cfc880?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:25cQsN1UjgHN4oH1bEYZZ3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:6TRzqQLrQ3e41Qd59AXt5w"
+}

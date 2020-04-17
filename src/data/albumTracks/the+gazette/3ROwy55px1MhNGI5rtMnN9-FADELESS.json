@@ -1,0 +1,161 @@
+{
+  "album_type": "single",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+      },
+      "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+      "id": "4gRFSxjAcJkb54BDjqo7Bc",
+      "name": "the GazettE",
+      "type": "artist",
+      "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+    }
+  ],
+  "available_markets": [
+    "JP"
+  ],
+  "copyrights": [
+    {
+      "text": "2013 Sony Music Labels Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "4988009086958"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3ROwy55px1MhNGI5rtMnN9"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/3ROwy55px1MhNGI5rtMnN9",
+  "id": "3ROwy55px1MhNGI5rtMnN9",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f438a3814f955091cec4e7ac",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f438a3814f955091cec4e7ac",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f438a3814f955091cec4e7ac",
+      "width": 64
+    }
+  ],
+  "label": "Sony Music Labels Inc.",
+  "name": "FADELESS",
+  "popularity": 7,
+  "release_date": "2013-08-21",
+  "release_date_precision": "day",
+  "total_tracks": 3,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3ROwy55px1MhNGI5rtMnN9/tracks?offset=0&limit=50",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 247026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FNIqNclMxCdRHnCCbY6te"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4FNIqNclMxCdRHnCCbY6te",
+        "id": "4FNIqNclMxCdRHnCCbY6te",
+        "is_local": false,
+        "name": "FADELESS",
+        "preview_url": "https://p.scdn.co/mp3-preview/0ca6536759025e8cac86888a98f31639eca00746?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4FNIqNclMxCdRHnCCbY6te"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 322546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7DuP8luTaQKHXTyRP4z1Nr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7DuP8luTaQKHXTyRP4z1Nr",
+        "id": "7DuP8luTaQKHXTyRP4z1Nr",
+        "is_local": false,
+        "name": "QUIET",
+        "preview_url": "https://p.scdn.co/mp3-preview/d0a141016507a506b62791d5fd7e0745750fa236?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7DuP8luTaQKHXTyRP4z1Nr"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gRFSxjAcJkb54BDjqo7Bc"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gRFSxjAcJkb54BDjqo7Bc",
+            "id": "4gRFSxjAcJkb54BDjqo7Bc",
+            "name": "the GazettE",
+            "type": "artist",
+            "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc"
+          }
+        ],
+        "available_markets": [
+          "JP"
+        ],
+        "disc_number": 1,
+        "duration_ms": 210853,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7bDGHCiWbxaBw8ogTYBbP3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7bDGHCiWbxaBw8ogTYBbP3",
+        "id": "7bDGHCiWbxaBw8ogTYBbP3",
+        "is_local": false,
+        "name": "FORBIDDEN BEAVER",
+        "preview_url": "https://p.scdn.co/mp3-preview/4150abfb8e186b0f02342ab47da991683f262cf6?cid=b7571c1e287b48d5865c4b6cc0380daa",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7bDGHCiWbxaBw8ogTYBbP3"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  },
+  "type": "album",
+  "uri": "spotify:album:3ROwy55px1MhNGI5rtMnN9"
+}
