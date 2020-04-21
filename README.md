@@ -56,7 +56,23 @@ Loudness through album
 Time Signature Frequencies
 
 Generate track features based on distributions
+Generate album progressions based on patterns
 
 ## Display data
 
-Display
+Artist Analysis
+Album Analysis
+(Most common keys, average tempo, tempo distribution, most common time signatures, progression of features)
+Album selection for analysis
+Generate random based on selection (artist, album, selection)
+Find track with given features (or closest) and tweak (increase/decrease features) - fuzzy matching?
+
+## Technologies
+
+- [Axios](https://github.com/axios/axios)
+- [Sequelize](https://sequelize.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)()
+- [Plotly.js](https://plotly.com/javascript/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Rollup](http://rollupjs.org/guide/en/)
