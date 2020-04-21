@@ -4,6 +4,7 @@
   "description": "Trying out the Spotify API",
   "main": "src/index.js",
   "scripts": {
+    "analyse:artist": "node src/backend/analyseDiscography.js -r dotenv/config env.js",
     "db:load": "node src/backend/databaseLoad.js -r dotenv/config env.js",
     "db:migrate": "npx sequelize db:migrate",
     "scrape:album": "node src/backend/scrapeAlbumTracks.js -r dotenv/config env.js",
@@ -24,6 +25,7 @@
     "axios-rate-limit": "^1.2.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "moment": "^2.24.0",
     "pg": "^8.0.2",
     "pg-hstore": "^2.3.3",
     "sequelize": "^5.21.6",
